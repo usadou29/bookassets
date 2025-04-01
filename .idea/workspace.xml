@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22071d3f-65eb-4cd4-984a-3b29b79790ed" name="Changes" comment="add sounds" />
+    <list default="true" id="22071d3f-65eb-4cd4-984a-3b29b79790ed" name="Changes" comment="add sounds welcome_tome_1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,12 +24,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/sadouulrich/Documents/personal/bookassets"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sadouulrich/Documents/personal/bookassets&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +47,31 @@
       <option name="project" value="LOCAL" />
       <updated>1743472064690</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add sounds quiz tome 1">
+      <option name="closed" value="true" />
+      <created>1743472564353</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743472564353</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add sounds quiz tome 1">
+      <option name="closed" value="true" />
+      <created>1743472570927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743472570927</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add sounds welcome_tome_1">
+      <option name="closed" value="true" />
+      <created>1743472942150</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743472942150</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,6 +87,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add sounds" />
-    <option name="LAST_COMMIT_MESSAGE" value="add sounds" />
+    <MESSAGE value="add sounds quiz tome 1" />
+    <MESSAGE value="add sounds welcome_tome_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sounds welcome_tome_1" />
   </component>
 </project>
