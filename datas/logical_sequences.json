@@ -1,1302 +1,1310 @@
 {
-  "beginner": [
-    {
-      "sequence": [
-        "🔵",
-        "🔴",
-        "🔵",
-        "🔴",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Alternance simple entre bleu et rouge",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🌙",
-        "⭐",
-        "🌙",
-        "❓"
-      ],
-      "answer": "⭐",
-      "explanation": "Alternance entre étoile et lune",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🔵",
-        "🟡",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "🟡",
-        "🔵",
-        "🔴",
-        "🟡",
-        "🔵",
-        "❓"
-      ],
-      "answer": "🔴",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 2
-    },
-    {
-      "sequence": [
-        "🔴",
-        "🌙",
-        "🔴",
-        "🌙",
-        "🔴",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 2
-    },
-    {
-      "sequence": [
-        "🔵",
-        "🌙",
-        "🔵",
-        "🌙",
-        "🔵",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 2
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🟡",
-        "🔵",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🟡",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🟡",
-        "🔴",
-        "🔵",
-        "🟡",
-        "❓"
-      ],
-      "answer": "🔴",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 2
-    },
-    {
-      "sequence": [
-        "🌙",
-        "🔵",
-        "🟡",
-        "🌙",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🟡",
-        "🔴",
-        "🌙",
-        "🟡",
-        "❓"
-      ],
-      "answer": "🔴",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🟡",
-        "⭐",
-        "🟡",
-        "❓"
-      ],
-      "answer": "⭐",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🔴",
-        "⭐",
-        "🔴",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🔴",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "🌙",
-        "🟡",
-        "🌙",
-        "🟡",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🔴",
-        "⭐",
-        "🔵",
-        "🔴",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🔴",
-        "⭐",
-        "🔴",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🔴",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🌙",
-        "🔴",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "🌙",
-        "🔵",
-        "🟡",
-        "🌙",
-        "🔵",
-        "❓"
-      ],
-      "answer": "🟡",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "🟡",
-        "🌙",
-        "🔵",
-        "🟡",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 2
-    },
-    {
-      "sequence": [
-        "🔴",
-        "⭐",
-        "🌙",
-        "🔴",
-        "❓"
-      ],
-      "answer": "⭐",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🔵",
-        "🟡",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "🌙",
-        "🟡",
-        "🌙",
-        "🟡",
-        "🌙",
-        "❓"
-      ],
-      "answer": "🟡",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "🔵",
-        "🟡",
-        "🔵",
-        "🟡",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 2
-    },
-    {
-      "sequence": [
-        "🟡",
-        "⭐",
-        "🟡",
-        "⭐",
-        "🟡",
-        "❓"
-      ],
-      "answer": "⭐",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "🟡",
-        "🔵",
-        "⭐",
-        "🟡",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 2
-    },
-    {
-      "sequence": [
-        "🔵",
-        "🔴",
-        "🔵",
-        "🔴",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🔴",
-        "🟡",
-        "⭐",
-        "🔴",
-        "❓"
-      ],
-      "answer": "🟡",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "🟡",
-        "🔴",
-        "🔵",
-        "🟡",
-        "🔴",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 2
-    },
-    {
-      "sequence": [
-        "🟡",
-        "🌙",
-        "🔴",
-        "🟡",
-        "🌙",
-        "❓"
-      ],
-      "answer": "🔴",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 2
-    },
-    {
-      "sequence": [
-        "🟡",
-        "🔵",
-        "🌙",
-        "🟡",
-        "🔵",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🔵",
-        "🌙",
-        "🔵",
-        "🌙",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🔴",
-        "⭐",
-        "🔴",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🔴",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "🔵",
-        "🟡",
-        "🔵",
-        "🟡",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🔴",
-        "🟡",
-        "⭐",
-        "🔴",
-        "❓"
-      ],
-      "answer": "🟡",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 2
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🔴",
-        "⭐",
-        "🔴",
-        "❓"
-      ],
-      "answer": "⭐",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 2
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🔴",
-        "🌙",
-        "⭐",
-        "🔴",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🔵",
-        "🟡",
-        "⭐",
-        "🔵",
-        "❓"
-      ],
-      "answer": "🟡",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "🌙",
-        "⭐",
-        "🌙",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🟡",
-        "🔴",
-        "🟡",
-        "🔴",
-        "❓"
-      ],
-      "answer": "🟡",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "🔵",
-        "🔴",
-        "🔵",
-        "🔴",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 2
-    },
-    {
-      "sequence": [
-        "🟡",
-        "🔴",
-        "🔵",
-        "🟡",
-        "🔴",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "🟡",
-        "🌙",
-        "🟡",
-        "🌙",
-        "🟡",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🔵",
-        "⭐",
-        "🔵",
-        "⭐",
-        "🔵",
-        "❓"
-      ],
-      "answer": "⭐",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🔵",
-        "🌙",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "🔵",
-        "⭐",
-        "🌙",
-        "🔵",
-        "❓"
-      ],
-      "answer": "⭐",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "🔴",
-        "🌙",
-        "🔵",
-        "🔴",
-        "🌙",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🔵",
-        "🟡",
-        "⭐",
-        "🔵",
-        "❓"
-      ],
-      "answer": "🟡",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 1
-    },
-    {
-      "sequence": [
-        "🔵",
-        "⭐",
-        "🔴",
-        "🔵",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🔴",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 2
-    },
-    {
-      "sequence": [
-        "🔵",
-        "🌙",
-        "⭐",
-        "🔵",
-        "🌙",
-        "❓"
-      ],
-      "answer": "⭐",
-      "explanation": "Motif de 3 symboles répétés",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🔴",
-        "🌙",
-        "🔴",
-        "🌙",
-        "🔴",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 2
-    },
-    {
-      "sequence": [
-        "🔴",
-        "🟡",
-        "🔴",
-        "🟡",
-        "❓"
-      ],
-      "answer": "🔴",
-      "explanation": "Motif de 2 symboles répétés",
-      "difficulty": 1
-    }
-  ],
-  "engineer": [
-    {
-      "sequence": [
-        "1",
-        "0",
-        "1",
-        "0",
-        "1",
-        "❓"
-      ],
-      "answer": "0",
-      "explanation": "Alternance stricte binaire 1/0",
-      "difficulty": 2
-    },
-    {
-      "sequence": [
-        "🔵",
-        "🔵",
-        "🔴",
-        "🔵",
-        "🔵",
-        "🔴",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "2 bleus, 1 rouge, répétition",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🔻",
-        "⬤",
-        "⭐",
-        "🔻",
-        "❓"
-      ],
-      "answer": "⬤",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "⬜",
-        "🔺",
-        "🟡",
-        "⬜",
-        "🔺",
-        "❓"
-      ],
-      "answer": "🟡",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🔵",
-        "⬛",
-        "🔻",
-        "🟡",
-        "🔵",
-        "⬛",
-        "❓"
-      ],
-      "answer": "🔻",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "🌙",
-        "⬜",
-        "⭐",
-        "🌙",
-        "⬜",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 5
-    },
-    {
-      "sequence": [
-        "⬤",
-        "⭐",
-        "🔻",
-        "🟡",
-        "⬤",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🔻",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "⬜",
-        "🔵",
-        "⬤",
-        "⬜",
-        "🔵",
-        "⬤",
-        "❓"
-      ],
-      "answer": "⬜",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🌙",
-        "🔺",
-        "⭐",
-        "🌙",
-        "🔺",
-        "❓"
-      ],
-      "answer": "⭐",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "⬜",
-        "⬤",
-        "⬛",
-        "🔵",
-        "⬜",
-        "❓"
-      ],
-      "answer": "⬤",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 5
-    },
-    {
-      "sequence": [
-        "🌙",
-        "⬜",
-        "🔴",
-        "🌙",
-        "⬜",
-        "❓"
-      ],
-      "answer": "🔴",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🟡",
-        "⬜",
-        "🔺",
-        "🟡",
-        "⬜",
-        "🔺",
-        "❓"
-      ],
-      "answer": "🟡",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "⬜",
-        "🌙",
-        "🔴",
-        "⬤",
-        "⬜",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🌙",
-        "⬛",
-        "🔻",
-        "🔴",
-        "🌙",
-        "❓"
-      ],
-      "answer": "⬛",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🟡",
-        "⭐",
-        "🔵",
-        "⬤",
-        "🟡",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "🔴",
-        "⬛",
-        "⭐",
-        "🌙",
-        "🔴",
-        "⬛",
-        "❓"
-      ],
-      "answer": "⭐",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "🔻",
-        "🔺",
-        "🌙",
-        "🔵",
-        "🔻",
-        "❓"
-      ],
-      "answer": "🔺",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🔻",
-        "🔺",
-        "🟡",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🔻",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🟡",
-        "🔺",
-        "⬜",
-        "⭐",
-        "🟡",
-        "❓"
-      ],
-      "answer": "🔺",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "⬤",
-        "🔴",
-        "🟡",
-        "⬤",
-        "🔴",
-        "🟡",
-        "❓"
-      ],
-      "answer": "⬤",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "🔵",
-        "⬤",
-        "⬜",
-        "🔵",
-        "⬤",
-        "⬜",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "⬜",
-        "🔺",
-        "⭐",
-        "⬤",
-        "⬜",
-        "🔺",
-        "❓"
-      ],
-      "answer": "⭐",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "🔵",
-        "⬛",
-        "⬤",
-        "🔵",
-        "⬛",
-        "❓"
-      ],
-      "answer": "⬤",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "🔻",
-        "⬛",
-        "🔴",
-        "🔺",
-        "🔻",
-        "⬛",
-        "❓"
-      ],
-      "answer": "🔴",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🟡",
-        "⬛",
-        "⬤",
-        "🟡",
-        "⬛",
-        "⬤",
-        "❓"
-      ],
-      "answer": "🟡",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "⭐",
-        "⬛",
-        "🔺",
-        "⭐",
-        "⬛",
-        "❓"
-      ],
-      "answer": "🔺",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 5
-    },
-    {
-      "sequence": [
-        "🔻",
-        "🔴",
-        "🟡",
-        "⬛",
-        "🔻",
-        "🔴",
-        "❓"
-      ],
-      "answer": "🟡",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 5
-    },
-    {
-      "sequence": [
-        "🔵",
-        "🟡",
-        "⬛",
-        "🔴",
-        "🔵",
-        "🟡",
-        "❓"
-      ],
-      "answer": "⬛",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "🔺",
-        "⬤",
-        "🔵",
-        "⬜",
-        "🔺",
-        "❓"
-      ],
-      "answer": "⬤",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 5
-    },
-    {
-      "sequence": [
-        "🔻",
-        "⬤",
-        "🔵",
-        "⬜",
-        "🔻",
-        "❓"
-      ],
-      "answer": "⬤",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🔴",
-        "🔻",
-        "🌙",
-        "🔴",
-        "🔻",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🟡",
-        "🌙",
-        "⭐",
-        "🟡",
-        "🌙",
-        "❓"
-      ],
-      "answer": "⭐",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 5
-    },
-    {
-      "sequence": [
-        "🌙",
-        "🔺",
-        "⬜",
-        "🌙",
-        "🔺",
-        "❓"
-      ],
-      "answer": "⬜",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "⬤",
-        "🌙",
-        "⬛",
-        "⬤",
-        "🌙",
-        "❓"
-      ],
-      "answer": "⬛",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 5
-    },
-    {
-      "sequence": [
-        "🌙",
-        "⬤",
-        "⬛",
-        "🌙",
-        "⬤",
-        "⬛",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "🌙",
-        "⭐",
-        "🔵",
-        "🌙",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "⬛",
-        "🌙",
-        "🟡",
-        "⬛",
-        "🌙",
-        "🟡",
-        "❓"
-      ],
-      "answer": "⬛",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🔵",
-        "⬛",
-        "🔴",
-        "⬜",
-        "🔵",
-        "⬛",
-        "❓"
-      ],
-      "answer": "🔴",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "⬛",
-        "🔴",
-        "🌙",
-        "⬛",
-        "🔴",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "🟡",
-        "⬤",
-        "🔴",
-        "🔵",
-        "🟡",
-        "❓"
-      ],
-      "answer": "⬤",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "⬤",
-        "🔵",
-        "🔻",
-        "⬤",
-        "🔵",
-        "❓"
-      ],
-      "answer": "🔻",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🔵",
-        "⬤",
-        "🔴",
-        "⭐",
-        "🔵",
-        "⬤",
-        "❓"
-      ],
-      "answer": "🔴",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "⬜",
-        "🔴",
-        "🔺",
-        "⬤",
-        "⬜",
-        "🔴",
-        "❓"
-      ],
-      "answer": "🔺",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🟡",
-        "⭐",
-        "🔻",
-        "🟡",
-        "⭐",
-        "❓"
-      ],
-      "answer": "🔻",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 4
-    },
-    {
-      "sequence": [
-        "🔵",
-        "🌙",
-        "⬛",
-        "🔵",
-        "🌙",
-        "⬛",
-        "❓"
-      ],
-      "answer": "🔵",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🔺",
-        "🔻",
-        "🌙",
-        "🔴",
-        "🔺",
-        "🔻",
-        "❓"
-      ],
-      "answer": "🌙",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 5
-    },
-    {
-      "sequence": [
-        "⭐",
-        "🔻",
-        "🌙",
-        "⭐",
-        "🔻",
-        "🌙",
-        "❓"
-      ],
-      "answer": "⭐",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🌙",
-        "🔻",
-        "🔵",
-        "🔺",
-        "🌙",
-        "❓"
-      ],
-      "answer": "🔻",
-      "explanation": "Motif complexe de 4 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🔴",
-        "⬛",
-        "🔺",
-        "🔴",
-        "⬛",
-        "❓"
-      ],
-      "answer": "🔺",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 3
-    },
-    {
-      "sequence": [
-        "🔴",
-        "🔺",
-        "⭐",
-        "🔴",
-        "🔺",
-        "❓"
-      ],
-      "answer": "⭐",
-      "explanation": "Motif complexe de 3 symboles avec alternance",
-      "difficulty": 3
-    }
-  ]
+  "beginner": {
+    "patterns": [
+      {
+        "sequence": [
+          "🔵",
+          "🔴",
+          "🔵",
+          "🔴",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Alternance simple entre bleu et rouge",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🌙",
+          "⭐",
+          "🌙",
+          "❓"
+        ],
+        "answer": "⭐",
+        "explanation": "Alternance entre étoile et lune",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🔵",
+          "🟡",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "🟡",
+          "🔵",
+          "🔴",
+          "🟡",
+          "🔵",
+          "❓"
+        ],
+        "answer": "🔴",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 2
+      },
+      {
+        "sequence": [
+          "🔴",
+          "🌙",
+          "🔴",
+          "🌙",
+          "🔴",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 2
+      },
+      {
+        "sequence": [
+          "🔵",
+          "🌙",
+          "🔵",
+          "🌙",
+          "🔵",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 2
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🟡",
+          "🔵",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🟡",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🟡",
+          "🔴",
+          "🔵",
+          "🟡",
+          "❓"
+        ],
+        "answer": "🔴",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 2
+      },
+      {
+        "sequence": [
+          "🌙",
+          "🔵",
+          "🟡",
+          "🌙",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🟡",
+          "🔴",
+          "🌙",
+          "🟡",
+          "❓"
+        ],
+        "answer": "🔴",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🟡",
+          "⭐",
+          "🟡",
+          "❓"
+        ],
+        "answer": "⭐",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🔴",
+          "⭐",
+          "🔴",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🔴",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "🌙",
+          "🟡",
+          "🌙",
+          "🟡",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🔴",
+          "⭐",
+          "🔵",
+          "🔴",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🔴",
+          "⭐",
+          "🔴",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🔴",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🌙",
+          "🔴",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "🌙",
+          "🔵",
+          "🟡",
+          "🌙",
+          "🔵",
+          "❓"
+        ],
+        "answer": "🟡",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "🟡",
+          "🌙",
+          "🔵",
+          "🟡",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 2
+      },
+      {
+        "sequence": [
+          "🔴",
+          "⭐",
+          "🌙",
+          "🔴",
+          "❓"
+        ],
+        "answer": "⭐",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🔵",
+          "🟡",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "🌙",
+          "🟡",
+          "🌙",
+          "🟡",
+          "🌙",
+          "❓"
+        ],
+        "answer": "🟡",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "🔵",
+          "🟡",
+          "🔵",
+          "🟡",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 2
+      },
+      {
+        "sequence": [
+          "🟡",
+          "⭐",
+          "🟡",
+          "⭐",
+          "🟡",
+          "❓"
+        ],
+        "answer": "⭐",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "🟡",
+          "🔵",
+          "⭐",
+          "🟡",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 2
+      },
+      {
+        "sequence": [
+          "🔵",
+          "🔴",
+          "🔵",
+          "🔴",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🔴",
+          "🟡",
+          "⭐",
+          "🔴",
+          "❓"
+        ],
+        "answer": "🟡",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "🟡",
+          "🔴",
+          "🔵",
+          "🟡",
+          "🔴",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 2
+      },
+      {
+        "sequence": [
+          "🟡",
+          "🌙",
+          "🔴",
+          "🟡",
+          "🌙",
+          "❓"
+        ],
+        "answer": "🔴",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 2
+      },
+      {
+        "sequence": [
+          "🟡",
+          "🔵",
+          "🌙",
+          "🟡",
+          "🔵",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🔵",
+          "🌙",
+          "🔵",
+          "🌙",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🔴",
+          "⭐",
+          "🔴",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🔴",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "🔵",
+          "🟡",
+          "🔵",
+          "🟡",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🔴",
+          "🟡",
+          "⭐",
+          "🔴",
+          "❓"
+        ],
+        "answer": "🟡",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 2
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🔴",
+          "⭐",
+          "🔴",
+          "❓"
+        ],
+        "answer": "⭐",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 2
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🔴",
+          "🌙",
+          "⭐",
+          "🔴",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🔵",
+          "🟡",
+          "⭐",
+          "🔵",
+          "❓"
+        ],
+        "answer": "🟡",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "🌙",
+          "⭐",
+          "🌙",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🟡",
+          "🔴",
+          "🟡",
+          "🔴",
+          "❓"
+        ],
+        "answer": "🟡",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "🔵",
+          "🔴",
+          "🔵",
+          "🔴",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 2
+      },
+      {
+        "sequence": [
+          "🟡",
+          "🔴",
+          "🔵",
+          "🟡",
+          "🔴",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "🟡",
+          "🌙",
+          "🟡",
+          "🌙",
+          "🟡",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🔵",
+          "⭐",
+          "🔵",
+          "⭐",
+          "🔵",
+          "❓"
+        ],
+        "answer": "⭐",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🔵",
+          "🌙",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "🔵",
+          "⭐",
+          "🌙",
+          "🔵",
+          "❓"
+        ],
+        "answer": "⭐",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "🔴",
+          "🌙",
+          "🔵",
+          "🔴",
+          "🌙",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🔵",
+          "🟡",
+          "⭐",
+          "🔵",
+          "❓"
+        ],
+        "answer": "🟡",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 1
+      },
+      {
+        "sequence": [
+          "🔵",
+          "⭐",
+          "🔴",
+          "🔵",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🔴",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 2
+      },
+      {
+        "sequence": [
+          "🔵",
+          "🌙",
+          "⭐",
+          "🔵",
+          "🌙",
+          "❓"
+        ],
+        "answer": "⭐",
+        "explanation": "Motif de 3 symboles répétés",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🔴",
+          "🌙",
+          "🔴",
+          "🌙",
+          "🔴",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 2
+      },
+      {
+        "sequence": [
+          "🔴",
+          "🟡",
+          "🔴",
+          "🟡",
+          "❓"
+        ],
+        "answer": "🔴",
+        "explanation": "Motif de 2 symboles répétés",
+        "difficulty": 1
+      }
+    ],
+    "description": "Pour les 5-9 ans. Motifs simples avec symboles et formes.",
+    "color": "green"
+  },
+  "engineer": {
+    "patterns": [
+      {
+        "sequence": [
+          "1",
+          "0",
+          "1",
+          "0",
+          "1",
+          "❓"
+        ],
+        "answer": "0",
+        "explanation": "Alternance stricte binaire 1/0",
+        "difficulty": 2
+      },
+      {
+        "sequence": [
+          "🔵",
+          "🔵",
+          "🔴",
+          "🔵",
+          "🔵",
+          "🔴",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "2 bleus, 1 rouge, répétition",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🔻",
+          "⬤",
+          "⭐",
+          "🔻",
+          "❓"
+        ],
+        "answer": "⬤",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "⬜",
+          "🔺",
+          "🟡",
+          "⬜",
+          "🔺",
+          "❓"
+        ],
+        "answer": "🟡",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🔵",
+          "⬛",
+          "🔻",
+          "🟡",
+          "🔵",
+          "⬛",
+          "❓"
+        ],
+        "answer": "🔻",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "🌙",
+          "⬜",
+          "⭐",
+          "🌙",
+          "⬜",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 5
+      },
+      {
+        "sequence": [
+          "⬤",
+          "⭐",
+          "🔻",
+          "🟡",
+          "⬤",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🔻",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "⬜",
+          "🔵",
+          "⬤",
+          "⬜",
+          "🔵",
+          "⬤",
+          "❓"
+        ],
+        "answer": "⬜",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🌙",
+          "🔺",
+          "⭐",
+          "🌙",
+          "🔺",
+          "❓"
+        ],
+        "answer": "⭐",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "⬜",
+          "⬤",
+          "⬛",
+          "🔵",
+          "⬜",
+          "❓"
+        ],
+        "answer": "⬤",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 5
+      },
+      {
+        "sequence": [
+          "🌙",
+          "⬜",
+          "🔴",
+          "🌙",
+          "⬜",
+          "❓"
+        ],
+        "answer": "🔴",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🟡",
+          "⬜",
+          "🔺",
+          "🟡",
+          "⬜",
+          "🔺",
+          "❓"
+        ],
+        "answer": "🟡",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "⬜",
+          "🌙",
+          "🔴",
+          "⬤",
+          "⬜",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🌙",
+          "⬛",
+          "🔻",
+          "🔴",
+          "🌙",
+          "❓"
+        ],
+        "answer": "⬛",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🟡",
+          "⭐",
+          "🔵",
+          "⬤",
+          "🟡",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "🔴",
+          "⬛",
+          "⭐",
+          "🌙",
+          "🔴",
+          "⬛",
+          "❓"
+        ],
+        "answer": "⭐",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "🔻",
+          "🔺",
+          "🌙",
+          "🔵",
+          "🔻",
+          "❓"
+        ],
+        "answer": "🔺",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🔻",
+          "🔺",
+          "🟡",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🔻",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🟡",
+          "🔺",
+          "⬜",
+          "⭐",
+          "🟡",
+          "❓"
+        ],
+        "answer": "🔺",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "⬤",
+          "🔴",
+          "🟡",
+          "⬤",
+          "🔴",
+          "🟡",
+          "❓"
+        ],
+        "answer": "⬤",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "🔵",
+          "⬤",
+          "⬜",
+          "🔵",
+          "⬤",
+          "⬜",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "⬜",
+          "🔺",
+          "⭐",
+          "⬤",
+          "⬜",
+          "🔺",
+          "❓"
+        ],
+        "answer": "⭐",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "🔵",
+          "⬛",
+          "⬤",
+          "🔵",
+          "⬛",
+          "❓"
+        ],
+        "answer": "⬤",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "🔻",
+          "⬛",
+          "🔴",
+          "🔺",
+          "🔻",
+          "⬛",
+          "❓"
+        ],
+        "answer": "🔴",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🟡",
+          "⬛",
+          "⬤",
+          "🟡",
+          "⬛",
+          "⬤",
+          "❓"
+        ],
+        "answer": "🟡",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "⭐",
+          "⬛",
+          "🔺",
+          "⭐",
+          "⬛",
+          "❓"
+        ],
+        "answer": "🔺",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 5
+      },
+      {
+        "sequence": [
+          "🔻",
+          "🔴",
+          "🟡",
+          "⬛",
+          "🔻",
+          "🔴",
+          "❓"
+        ],
+        "answer": "🟡",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 5
+      },
+      {
+        "sequence": [
+          "🔵",
+          "🟡",
+          "⬛",
+          "🔴",
+          "🔵",
+          "🟡",
+          "❓"
+        ],
+        "answer": "⬛",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "🔺",
+          "⬤",
+          "🔵",
+          "⬜",
+          "🔺",
+          "❓"
+        ],
+        "answer": "⬤",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 5
+      },
+      {
+        "sequence": [
+          "🔻",
+          "⬤",
+          "🔵",
+          "⬜",
+          "🔻",
+          "❓"
+        ],
+        "answer": "⬤",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🔴",
+          "🔻",
+          "🌙",
+          "🔴",
+          "🔻",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🟡",
+          "🌙",
+          "⭐",
+          "🟡",
+          "🌙",
+          "❓"
+        ],
+        "answer": "⭐",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 5
+      },
+      {
+        "sequence": [
+          "🌙",
+          "🔺",
+          "⬜",
+          "🌙",
+          "🔺",
+          "❓"
+        ],
+        "answer": "⬜",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "⬤",
+          "🌙",
+          "⬛",
+          "⬤",
+          "🌙",
+          "❓"
+        ],
+        "answer": "⬛",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 5
+      },
+      {
+        "sequence": [
+          "🌙",
+          "⬤",
+          "⬛",
+          "🌙",
+          "⬤",
+          "⬛",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "🌙",
+          "⭐",
+          "🔵",
+          "🌙",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "⬛",
+          "🌙",
+          "🟡",
+          "⬛",
+          "🌙",
+          "🟡",
+          "❓"
+        ],
+        "answer": "⬛",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🔵",
+          "⬛",
+          "🔴",
+          "⬜",
+          "🔵",
+          "⬛",
+          "❓"
+        ],
+        "answer": "🔴",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "⬛",
+          "🔴",
+          "🌙",
+          "⬛",
+          "🔴",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "🟡",
+          "⬤",
+          "🔴",
+          "🔵",
+          "🟡",
+          "❓"
+        ],
+        "answer": "⬤",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "⬤",
+          "🔵",
+          "🔻",
+          "⬤",
+          "🔵",
+          "❓"
+        ],
+        "answer": "🔻",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🔵",
+          "⬤",
+          "🔴",
+          "⭐",
+          "🔵",
+          "⬤",
+          "❓"
+        ],
+        "answer": "🔴",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "⬜",
+          "🔴",
+          "🔺",
+          "⬤",
+          "⬜",
+          "🔴",
+          "❓"
+        ],
+        "answer": "🔺",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🟡",
+          "⭐",
+          "🔻",
+          "🟡",
+          "⭐",
+          "❓"
+        ],
+        "answer": "🔻",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 4
+      },
+      {
+        "sequence": [
+          "🔵",
+          "🌙",
+          "⬛",
+          "🔵",
+          "🌙",
+          "⬛",
+          "❓"
+        ],
+        "answer": "🔵",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🔺",
+          "🔻",
+          "🌙",
+          "🔴",
+          "🔺",
+          "🔻",
+          "❓"
+        ],
+        "answer": "🌙",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 5
+      },
+      {
+        "sequence": [
+          "⭐",
+          "🔻",
+          "🌙",
+          "⭐",
+          "🔻",
+          "🌙",
+          "❓"
+        ],
+        "answer": "⭐",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🌙",
+          "🔻",
+          "🔵",
+          "🔺",
+          "🌙",
+          "❓"
+        ],
+        "answer": "🔻",
+        "explanation": "Motif complexe de 4 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🔴",
+          "⬛",
+          "🔺",
+          "🔴",
+          "⬛",
+          "❓"
+        ],
+        "answer": "🔺",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 3
+      },
+      {
+        "sequence": [
+          "🔴",
+          "🔺",
+          "⭐",
+          "🔴",
+          "🔺",
+          "❓"
+        ],
+        "answer": "⭐",
+        "explanation": "Motif complexe de 3 symboles avec alternance",
+        "difficulty": 3
+      }
+    ],
+    "description": "Pour les 9 ans et plus. Motifs complexes, logiques binaires, et suites avancées.",
+    "color": "blue"
+  }
 }
