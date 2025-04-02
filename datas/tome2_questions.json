@@ -1,1002 +1,892 @@
 [
   {
-    "question": "Quel animal représente Linux dans le livre ?",
-    "correctAnswer": "Un manchot",
+    "question": "Que fait Thaïs au début du tome 2 ?",
+    "correctAnswer": "Elle appuie sur le bouton de l’ordinateur",
     "options": [
-      "Un ours",
-      "Un chat",
-      "Un manchot",
-      "Un robot"
+      "Elle mange un gâteau",
+      "Elle appuie sur le bouton de l’ordinateur",
+      "Elle danse",
+      "Elle dort"
     ]
   },
   {
-    "question": "Quel est le rôle principal de RAMVille ?",
-    "correctAnswer": "Stocker temporairement les informations",
-    "options": [
-      "Garder tous les fichiers pour toujours",
-      "Stocker temporairement les informations",
-      "Afficher les images à l'écran",
-      "Créer des jeux"
-    ]
-  },
-  {
-    "question": "Comment s'appelle le guide de Thaïs dans le tome 2 ?",
+    "question": "Quel guide Thaïs choisit-elle dans ce tome ?",
     "correctAnswer": "Tux",
     "options": [
-      "Chip",
-      "Tux",
       "Windows",
-      "Rammy"
-    ]
-  },
-  {
-    "question": "Pourquoi faut-il libérer de la place dans la RAM ?",
-    "correctAnswer": "Pour que l'ordinateur reste rapide",
-    "options": [
-      "Pour écouter de la musique",
-      "Pour que l'ordinateur reste rapide",
-      "Pour éteindre l'écran",
-      "Pour télécharger un jeu"
-    ]
-  },
-  {
-    "question": "Où sont stockées les informations à long terme ?",
-    "correctAnswer": "MémoireVille",
-    "options": [
-      "GraphiqueCity",
-      "MémoireVille",
-      "BIOS-Bourg",
-      "RAMVille"
-    ]
-  },
-  {
-    "question": "Que faut-il faire quand le disque dur est plein ?",
-    "correctAnswer": "Supprimer ou déplacer des fichiers",
-    "options": [
-      "Le redémarrer",
-      "Le débrancher",
-      "Supprimer ou déplacer des fichiers",
-      "Changer de clavier"
-    ]
-  },
-  {
-    "question": "Que sont les pixels ?",
-    "correctAnswer": "Des petits carrés qui forment les images",
-    "options": [
-      "Des fichiers dans la RAM",
-      "Des petits carrés qui forment les images",
-      "Des virus",
-      "Des mots codés"
-    ]
-  },
-  {
-    "question": "Quel périphérique permet d'imprimer des documents ?",
-    "correctAnswer": "L’imprimante",
-    "options": [
-      "La souris",
-      "L’écran",
-      "Le clavier",
-      "L’imprimante"
-    ]
-  },
-  {
-    "question": "Que se passe-t-il si un périphérique est déconnecté ?",
-    "correctAnswer": "Il ne peut plus fonctionner",
-    "options": [
-      "Il devient invisible",
-      "Il se met à clignoter",
-      "Il ne peut plus fonctionner",
-      "Il fait du bruit"
-    ]
-  },
-  {
-    "question": "Où vont les fichiers que Thaïs veut garder mais qui prennent trop de place ?",
-    "correctAnswer": "Sur une clé USB",
-    "options": [
-      "Dans la RAM",
-      "Sur une clé USB",
-      "Dans le BIOS",
-      "Dans le jeu"
-    ]
-  },
-  {
-    "question": "Quel animal représente Linux dans le livre ? (bis)",
-    "correctAnswer": "Un manchot",
-    "options": [
-      "Un ours",
-      "Un chat",
-      "Un manchot",
-      "Un robot"
-    ]
-  },
-  {
-    "question": "Quel est le rôle principal de RAMVille ? (bis)",
-    "correctAnswer": "Stocker temporairement les informations",
-    "options": [
-      "Garder tous les fichiers pour toujours",
-      "Stocker temporairement les informations",
-      "Afficher les images à l'écran",
-      "Créer des jeux"
-    ]
-  },
-  {
-    "question": "Pourquoi faut-il libérer de la place dans la RAM ? (bis)",
-    "correctAnswer": "Pour que l'ordinateur reste rapide",
-    "options": [
-      "Pour écouter de la musique",
-      "Pour que l'ordinateur reste rapide",
-      "Pour éteindre l'écran",
-      "Pour télécharger un jeu"
-    ]
-  },
-  {
-    "question": "Que faut-il faire quand le disque dur est plein ? (bis)",
-    "correctAnswer": "Supprimer ou déplacer des fichiers",
-    "options": [
-      "Le redémarrer",
-      "Le débrancher",
-      "Supprimer ou déplacer des fichiers",
-      "Changer de clavier"
-    ]
-  },
-  {
-    "question": "Quel est le rôle principal de RAMVille ? (bis)",
-    "correctAnswer": "Stocker temporairement les informations",
-    "options": [
-      "Garder tous les fichiers pour toujours",
-      "Stocker temporairement les informations",
-      "Afficher les images à l'écran",
-      "Créer des jeux"
-    ]
-  },
-  {
-    "question": "Quel est le rôle principal de RAMVille ? (bis)",
-    "correctAnswer": "Stocker temporairement les informations",
-    "options": [
-      "Garder tous les fichiers pour toujours",
-      "Stocker temporairement les informations",
-      "Afficher les images à l'écran",
-      "Créer des jeux"
-    ]
-  },
-  {
-    "question": "Que sont les pixels ? (bis)",
-    "correctAnswer": "Des petits carrés qui forment les images",
-    "options": [
-      "Des fichiers dans la RAM",
-      "Des petits carrés qui forment les images",
-      "Des virus",
-      "Des mots codés"
-    ]
-  },
-  {
-    "question": "Où vont les fichiers que Thaïs veut garder mais qui prennent trop de place ? (bis)",
-    "correctAnswer": "Sur une clé USB",
-    "options": [
-      "Dans la RAM",
-      "Sur une clé USB",
-      "Dans le BIOS",
-      "Dans le jeu"
-    ]
-  },
-  {
-    "question": "Que se passe-t-il si un périphérique est déconnecté ? (bis)",
-    "correctAnswer": "Il ne peut plus fonctionner",
-    "options": [
-      "Il devient invisible",
-      "Il se met à clignoter",
-      "Il ne peut plus fonctionner",
-      "Il fait du bruit"
-    ]
-  },
-  {
-    "question": "Quel animal représente Linux dans le livre ? (bis)",
-    "correctAnswer": "Un manchot",
-    "options": [
-      "Un ours",
-      "Un chat",
-      "Un manchot",
-      "Un robot"
-    ]
-  },
-  {
-    "question": "Que faut-il faire quand le disque dur est plein ? (bis)",
-    "correctAnswer": "Supprimer ou déplacer des fichiers",
-    "options": [
-      "Le redémarrer",
-      "Le débrancher",
-      "Supprimer ou déplacer des fichiers",
-      "Changer de clavier"
-    ]
-  },
-  {
-    "question": "Que se passe-t-il si un périphérique est déconnecté ? (bis)",
-    "correctAnswer": "Il ne peut plus fonctionner",
-    "options": [
-      "Il devient invisible",
-      "Il se met à clignoter",
-      "Il ne peut plus fonctionner",
-      "Il fait du bruit"
-    ]
-  },
-  {
-    "question": "Où vont les fichiers que Thaïs veut garder mais qui prennent trop de place ? (bis)",
-    "correctAnswer": "Sur une clé USB",
-    "options": [
-      "Dans la RAM",
-      "Sur une clé USB",
-      "Dans le BIOS",
-      "Dans le jeu"
-    ]
-  },
-  {
-    "question": "Où sont stockées les informations à long terme ? (bis)",
-    "correctAnswer": "MémoireVille",
-    "options": [
-      "GraphiqueCity",
-      "MémoireVille",
-      "BIOS-Bourg",
-      "RAMVille"
-    ]
-  },
-  {
-    "question": "Que sont les pixels ? (bis)",
-    "correctAnswer": "Des petits carrés qui forment les images",
-    "options": [
-      "Des fichiers dans la RAM",
-      "Des petits carrés qui forment les images",
-      "Des virus",
-      "Des mots codés"
-    ]
-  },
-  {
-    "question": "Où sont stockées les informations à long terme ? (bis)",
-    "correctAnswer": "MémoireVille",
-    "options": [
-      "GraphiqueCity",
-      "MémoireVille",
-      "BIOS-Bourg",
-      "RAMVille"
-    ]
-  },
-  {
-    "question": "Que faut-il faire quand le disque dur est plein ? (bis)",
-    "correctAnswer": "Supprimer ou déplacer des fichiers",
-    "options": [
-      "Le redémarrer",
-      "Le débrancher",
-      "Supprimer ou déplacer des fichiers",
-      "Changer de clavier"
-    ]
-  },
-  {
-    "question": "Quel périphérique permet d'imprimer des documents ? (bis)",
-    "correctAnswer": "L’imprimante",
-    "options": [
-      "La souris",
-      "L’écran",
-      "Le clavier",
-      "L’imprimante"
-    ]
-  },
-  {
-    "question": "Que se passe-t-il si un périphérique est déconnecté ? (bis)",
-    "correctAnswer": "Il ne peut plus fonctionner",
-    "options": [
-      "Il devient invisible",
-      "Il se met à clignoter",
-      "Il ne peut plus fonctionner",
-      "Il fait du bruit"
-    ]
-  },
-  {
-    "question": "Où sont stockées les informations à long terme ? (bis)",
-    "correctAnswer": "MémoireVille",
-    "options": [
-      "GraphiqueCity",
-      "MémoireVille",
-      "BIOS-Bourg",
-      "RAMVille"
-    ]
-  },
-  {
-    "question": "Que sont les pixels ? (bis)",
-    "correctAnswer": "Des petits carrés qui forment les images",
-    "options": [
-      "Des fichiers dans la RAM",
-      "Des petits carrés qui forment les images",
-      "Des virus",
-      "Des mots codés"
-    ]
-  },
-  {
-    "question": "Que se passe-t-il si un périphérique est déconnecté ? (bis)",
-    "correctAnswer": "Il ne peut plus fonctionner",
-    "options": [
-      "Il devient invisible",
-      "Il se met à clignoter",
-      "Il ne peut plus fonctionner",
-      "Il fait du bruit"
-    ]
-  },
-  {
-    "question": "Quel est le rôle principal de RAMVille ? (bis)",
-    "correctAnswer": "Stocker temporairement les informations",
-    "options": [
-      "Garder tous les fichiers pour toujours",
-      "Stocker temporairement les informations",
-      "Afficher les images à l'écran",
-      "Créer des jeux"
-    ]
-  },
-  {
-    "question": "Que sont les pixels ? (bis)",
-    "correctAnswer": "Des petits carrés qui forment les images",
-    "options": [
-      "Des fichiers dans la RAM",
-      "Des petits carrés qui forment les images",
-      "Des virus",
-      "Des mots codés"
-    ]
-  },
-  {
-    "question": "Comment s'appelle le guide de Thaïs dans le tome 2 ? (bis)",
-    "correctAnswer": "Tux",
-    "options": [
-      "Chip",
       "Tux",
-      "Windows",
-      "Rammy"
-    ]
-  },
-  {
-    "question": "Où sont stockées les informations à long terme ? (bis)",
-    "correctAnswer": "MémoireVille",
-    "options": [
-      "GraphiqueCity",
-      "MémoireVille",
-      "BIOS-Bourg",
-      "RAMVille"
-    ]
-  },
-  {
-    "question": "Que sont les pixels ? (bis)",
-    "correctAnswer": "Des petits carrés qui forment les images",
-    "options": [
-      "Des fichiers dans la RAM",
-      "Des petits carrés qui forment les images",
-      "Des virus",
-      "Des mots codés"
-    ]
-  },
-  {
-    "question": "Que se passe-t-il si un périphérique est déconnecté ? (bis)",
-    "correctAnswer": "Il ne peut plus fonctionner",
-    "options": [
-      "Il devient invisible",
-      "Il se met à clignoter",
-      "Il ne peut plus fonctionner",
-      "Il fait du bruit"
-    ]
-  },
-  {
-    "question": "Que faut-il faire quand le disque dur est plein ? (bis)",
-    "correctAnswer": "Supprimer ou déplacer des fichiers",
-    "options": [
-      "Le redémarrer",
-      "Le débrancher",
-      "Supprimer ou déplacer des fichiers",
-      "Changer de clavier"
-    ]
-  },
-  {
-    "question": "Que se passe-t-il si un périphérique est déconnecté ? (bis)",
-    "correctAnswer": "Il ne peut plus fonctionner",
-    "options": [
-      "Il devient invisible",
-      "Il se met à clignoter",
-      "Il ne peut plus fonctionner",
-      "Il fait du bruit"
-    ]
-  },
-  {
-    "question": "Que sont les pixels ? (bis)",
-    "correctAnswer": "Des petits carrés qui forment les images",
-    "options": [
-      "Des fichiers dans la RAM",
-      "Des petits carrés qui forment les images",
-      "Des virus",
-      "Des mots codés"
-    ]
-  },
-  {
-    "question": "Que se passe-t-il si un périphérique est déconnecté ? (bis)",
-    "correctAnswer": "Il ne peut plus fonctionner",
-    "options": [
-      "Il devient invisible",
-      "Il se met à clignoter",
-      "Il ne peut plus fonctionner",
-      "Il fait du bruit"
-    ]
-  },
-  {
-    "question": "Où vont les fichiers que Thaïs veut garder mais qui prennent trop de place ? (bis)",
-    "correctAnswer": "Sur une clé USB",
-    "options": [
-      "Dans la RAM",
-      "Sur une clé USB",
-      "Dans le BIOS",
-      "Dans le jeu"
-    ]
-  },
-  {
-    "question": "Où sont stockées les informations à long terme ? (bis)",
-    "correctAnswer": "MémoireVille",
-    "options": [
-      "GraphiqueCity",
-      "MémoireVille",
-      "BIOS-Bourg",
-      "RAMVille"
-    ]
-  },
-  {
-    "question": "Quel périphérique permet d'imprimer des documents ? (bis)",
-    "correctAnswer": "L’imprimante",
-    "options": [
-      "La souris",
-      "L’écran",
-      "Le clavier",
-      "L’imprimante"
-    ]
-  },
-  {
-    "question": "Quel animal représente Linux dans le livre ? (bis)",
-    "correctAnswer": "Un manchot",
-    "options": [
-      "Un ours",
-      "Un chat",
-      "Un manchot",
-      "Un robot"
-    ]
-  },
-  {
-    "question": "Où sont stockées les informations à long terme ? (bis)",
-    "correctAnswer": "MémoireVille",
-    "options": [
-      "GraphiqueCity",
-      "MémoireVille",
-      "BIOS-Bourg",
-      "RAMVille"
-    ]
-  },
-  {
-    "question": "Où vont les fichiers que Thaïs veut garder mais qui prennent trop de place ? (bis)",
-    "correctAnswer": "Sur une clé USB",
-    "options": [
-      "Dans la RAM",
-      "Sur une clé USB",
-      "Dans le BIOS",
-      "Dans le jeu"
-    ]
-  },
-  {
-    "question": "Où sont stockées les informations à long terme ? (bis)",
-    "correctAnswer": "MémoireVille",
-    "options": [
-      "GraphiqueCity",
-      "MémoireVille",
-      "BIOS-Bourg",
-      "RAMVille"
-    ]
-  },
-  {
-    "question": "Quel animal représente Linux dans le livre ? (bis)",
-    "correctAnswer": "Un manchot",
-    "options": [
-      "Un ours",
-      "Un chat",
-      "Un manchot",
-      "Un robot"
-    ]
-  },
-  {
-    "question": "Pourquoi faut-il libérer de la place dans la RAM ? (bis)",
-    "correctAnswer": "Pour que l'ordinateur reste rapide",
-    "options": [
-      "Pour écouter de la musique",
-      "Pour que l'ordinateur reste rapide",
-      "Pour éteindre l'écran",
-      "Pour télécharger un jeu"
-    ]
-  },
-  {
-    "question": "Pourquoi faut-il libérer de la place dans la RAM ? (bis)",
-    "correctAnswer": "Pour que l'ordinateur reste rapide",
-    "options": [
-      "Pour écouter de la musique",
-      "Pour que l'ordinateur reste rapide",
-      "Pour éteindre l'écran",
-      "Pour télécharger un jeu"
-    ]
-  },
-  {
-    "question": "Où sont stockées les informations à long terme ? (bis)",
-    "correctAnswer": "MémoireVille",
-    "options": [
-      "GraphiqueCity",
-      "MémoireVille",
-      "BIOS-Bourg",
-      "RAMVille"
-    ]
-  },
-  {
-    "question": "Quel est le rôle principal de RAMVille ? (bis)",
-    "correctAnswer": "Stocker temporairement les informations",
-    "options": [
-      "Garder tous les fichiers pour toujours",
-      "Stocker temporairement les informations",
-      "Afficher les images à l'écran",
-      "Créer des jeux"
-    ]
-  },
-  {
-    "question": "Quel périphérique permet d'imprimer des documents ? (bis)",
-    "correctAnswer": "L’imprimante",
-    "options": [
-      "La souris",
-      "L’écran",
-      "Le clavier",
-      "L’imprimante"
-    ]
-  },
-  {
-    "question": "Où sont stockées les informations à long terme ? (bis)",
-    "correctAnswer": "MémoireVille",
-    "options": [
-      "GraphiqueCity",
-      "MémoireVille",
-      "BIOS-Bourg",
-      "RAMVille"
-    ]
-  },
-  {
-    "question": "Comment s'appelle le guide de Thaïs dans le tome 2 ? (bis)",
-    "correctAnswer": "Tux",
-    "options": [
       "Chip",
-      "Tux",
+      "Un chat"
+    ]
+  },
+  {
+    "question": "Que représente le symbole de Tux ?",
+    "correctAnswer": "Linux",
+    "options": [
       "Windows",
-      "Rammy"
+      "Linux",
+      "Un jeu",
+      "Une étoile"
     ]
   },
   {
-    "question": "Où vont les fichiers que Thaïs veut garder mais qui prennent trop de place ? (bis)",
-    "correctAnswer": "Sur une clé USB",
+    "question": "Où Thaïs arrive-t-elle en premier dans ce tome ?",
+    "correctAnswer": "RAMVille",
     "options": [
-      "Dans la RAM",
-      "Sur une clé USB",
-      "Dans le BIOS",
-      "Dans le jeu"
+      "MémoireVille",
+      "GraphiqueCity",
+      "RAMVille",
+      "PériphérVille"
     ]
   },
   {
-    "question": "Que sont les pixels ? (bis)",
-    "correctAnswer": "Des petits carrés qui forment les images",
+    "question": "Qui transporte des blocs lumineux à RAMVille ?",
+    "correctAnswer": "Les Rammeurs",
     "options": [
-      "Des fichiers dans la RAM",
-      "Des petits carrés qui forment les images",
-      "Des virus",
-      "Des mots codés"
+      "Les Graphistes",
+      "Les Rammeurs",
+      "Les Connecteurs",
+      "Les Archivistes"
     ]
   },
   {
-    "question": "Quel animal représente Linux dans le livre ? (bis)",
-    "correctAnswer": "Un manchot",
+    "question": "Que fait la RAM à RAMVille ?",
+    "correctAnswer": "Elle garde les infos temporairement",
     "options": [
-      "Un ours",
-      "Un chat",
-      "Un manchot",
-      "Un robot"
+      "Elle garde les infos pour toujours",
+      "Elle garde les infos temporairement",
+      "Elle dessine des images",
+      "Elle imprime des fichiers"
     ]
   },
   {
-    "question": "Que faut-il faire quand le disque dur est plein ? (bis)",
-    "correctAnswer": "Supprimer ou déplacer des fichiers",
+    "question": "Pourquoi la RAM se vide-t-elle souvent ?",
+    "correctAnswer": "Pour faire de la place",
     "options": [
-      "Le redémarrer",
-      "Le débrancher",
-      "Supprimer ou déplacer des fichiers",
-      "Changer de clavier"
+      "Pour s’amuser",
+      "Pour faire de la place",
+      "Pour chanter",
+      "Pour dormir"
     ]
   },
   {
-    "question": "Pourquoi faut-il libérer de la place dans la RAM ? (bis)",
-    "correctAnswer": "Pour que l'ordinateur reste rapide",
+    "question": "À quoi Thaïs compare-t-elle la RAM ?",
+    "correctAnswer": "À sa table de dessin",
     "options": [
-      "Pour écouter de la musique",
-      "Pour que l'ordinateur reste rapide",
-      "Pour éteindre l'écran",
-      "Pour télécharger un jeu"
+      "À un livre",
+      "À sa table de dessin",
+      "À une chaise",
+      "À un nuage"
     ]
   },
   {
-    "question": "Que se passe-t-il si un périphérique est déconnecté ? (bis)",
-    "correctAnswer": "Il ne peut plus fonctionner",
+    "question": "Que doit faire Thaïs quand la RAM est pleine ?",
+    "correctAnswer": "Choisir ce qu’on enlève",
     "options": [
-      "Il devient invisible",
-      "Il se met à clignoter",
-      "Il ne peut plus fonctionner",
-      "Il fait du bruit"
+      "Tout garder",
+      "Choisir ce qu’on enlève",
+      "Dessiner dessus",
+      "La cacher"
     ]
   },
   {
-    "question": "Pourquoi faut-il libérer de la place dans la RAM ? (bis)",
-    "correctAnswer": "Pour que l'ordinateur reste rapide",
+    "question": "Que transporte un bloc d’information ?",
+    "correctAnswer": "Des données pour les programmes",
     "options": [
-      "Pour écouter de la musique",
-      "Pour que l'ordinateur reste rapide",
-      "Pour éteindre l'écran",
-      "Pour télécharger un jeu"
+      "Des bonbons",
+      "Des données pour les programmes",
+      "Des jouets",
+      "Des crayons"
     ]
   },
   {
-    "question": "Pourquoi faut-il libérer de la place dans la RAM ? (bis)",
-    "correctAnswer": "Pour que l'ordinateur reste rapide",
+    "question": "Que se passe-t-il sans la RAM ?",
+    "correctAnswer": "L’ordinateur devient lent",
     "options": [
-      "Pour écouter de la musique",
-      "Pour que l'ordinateur reste rapide",
-      "Pour éteindre l'écran",
-      "Pour télécharger un jeu"
+      "L’ordinateur chante",
+      "L’ordinateur devient lent",
+      "L’écran s’éteint",
+      "Il pleut"
     ]
   },
   {
-    "question": "Où vont les fichiers que Thaïs veut garder mais qui prennent trop de place ? (bis)",
-    "correctAnswer": "Sur une clé USB",
-    "options": [
-      "Dans la RAM",
-      "Sur une clé USB",
-      "Dans le BIOS",
-      "Dans le jeu"
-    ]
-  },
-  {
-    "question": "Quel est le rôle principal de RAMVille ? (bis)",
-    "correctAnswer": "Stocker temporairement les informations",
-    "options": [
-      "Garder tous les fichiers pour toujours",
-      "Stocker temporairement les informations",
-      "Afficher les images à l'écran",
-      "Créer des jeux"
-    ]
-  },
-  {
-    "question": "Quel est le rôle principal de RAMVille ? (bis)",
-    "correctAnswer": "Stocker temporairement les informations",
-    "options": [
-      "Garder tous les fichiers pour toujours",
-      "Stocker temporairement les informations",
-      "Afficher les images à l'écran",
-      "Créer des jeux"
-    ]
-  },
-  {
-    "question": "Que sont les pixels ? (bis)",
-    "correctAnswer": "Des petits carrés qui forment les images",
-    "options": [
-      "Des fichiers dans la RAM",
-      "Des petits carrés qui forment les images",
-      "Des virus",
-      "Des mots codés"
-    ]
-  },
-  {
-    "question": "Comment s'appelle le guide de Thaïs dans le tome 2 ? (bis)",
-    "correctAnswer": "Tux",
-    "options": [
-      "Chip",
-      "Tux",
-      "Windows",
-      "Rammy"
-    ]
-  },
-  {
-    "question": "Comment s'appelle le guide de Thaïs dans le tome 2 ? (bis)",
-    "correctAnswer": "Tux",
-    "options": [
-      "Chip",
-      "Tux",
-      "Windows",
-      "Rammy"
-    ]
-  },
-  {
-    "question": "Que se passe-t-il si un périphérique est déconnecté ? (bis)",
-    "correctAnswer": "Il ne peut plus fonctionner",
-    "options": [
-      "Il devient invisible",
-      "Il se met à clignoter",
-      "Il ne peut plus fonctionner",
-      "Il fait du bruit"
-    ]
-  },
-  {
-    "question": "Quel périphérique permet d'imprimer des documents ? (bis)",
-    "correctAnswer": "L’imprimante",
-    "options": [
-      "La souris",
-      "L’écran",
-      "Le clavier",
-      "L’imprimante"
-    ]
-  },
-  {
-    "question": "Où vont les fichiers que Thaïs veut garder mais qui prennent trop de place ? (bis)",
-    "correctAnswer": "Sur une clé USB",
-    "options": [
-      "Dans la RAM",
-      "Sur une clé USB",
-      "Dans le BIOS",
-      "Dans le jeu"
-    ]
-  },
-  {
-    "question": "Que se passe-t-il si un périphérique est déconnecté ? (bis)",
-    "correctAnswer": "Il ne peut plus fonctionner",
-    "options": [
-      "Il devient invisible",
-      "Il se met à clignoter",
-      "Il ne peut plus fonctionner",
-      "Il fait du bruit"
-    ]
-  },
-  {
-    "question": "Que sont les pixels ? (bis)",
-    "correctAnswer": "Des petits carrés qui forment les images",
-    "options": [
-      "Des fichiers dans la RAM",
-      "Des petits carrés qui forment les images",
-      "Des virus",
-      "Des mots codés"
-    ]
-  },
-  {
-    "question": "Quel animal représente Linux dans le livre ? (bis)",
-    "correctAnswer": "Un manchot",
-    "options": [
-      "Un ours",
-      "Un chat",
-      "Un manchot",
-      "Un robot"
-    ]
-  },
-  {
-    "question": "Pourquoi faut-il libérer de la place dans la RAM ? (bis)",
-    "correctAnswer": "Pour que l'ordinateur reste rapide",
-    "options": [
-      "Pour écouter de la musique",
-      "Pour que l'ordinateur reste rapide",
-      "Pour éteindre l'écran",
-      "Pour télécharger un jeu"
-    ]
-  },
-  {
-    "question": "Quel animal représente Linux dans le livre ? (bis)",
-    "correctAnswer": "Un manchot",
-    "options": [
-      "Un ours",
-      "Un chat",
-      "Un manchot",
-      "Un robot"
-    ]
-  },
-  {
-    "question": "Que sont les pixels ? (bis)",
-    "correctAnswer": "Des petits carrés qui forment les images",
-    "options": [
-      "Des fichiers dans la RAM",
-      "Des petits carrés qui forment les images",
-      "Des virus",
-      "Des mots codés"
-    ]
-  },
-  {
-    "question": "Où vont les fichiers que Thaïs veut garder mais qui prennent trop de place ? (bis)",
-    "correctAnswer": "Sur une clé USB",
-    "options": [
-      "Dans la RAM",
-      "Sur une clé USB",
-      "Dans le BIOS",
-      "Dans le jeu"
-    ]
-  },
-  {
-    "question": "Quel animal représente Linux dans le livre ? (bis)",
-    "correctAnswer": "Un manchot",
-    "options": [
-      "Un ours",
-      "Un chat",
-      "Un manchot",
-      "Un robot"
-    ]
-  },
-  {
-    "question": "Quel est le rôle principal de RAMVille ? (bis)",
-    "correctAnswer": "Stocker temporairement les informations",
-    "options": [
-      "Garder tous les fichiers pour toujours",
-      "Stocker temporairement les informations",
-      "Afficher les images à l'écran",
-      "Créer des jeux"
-    ]
-  },
-  {
-    "question": "Où sont stockées les informations à long terme ? (bis)",
+    "question": "Où Thaïs va-t-elle après RAMVille ?",
     "correctAnswer": "MémoireVille",
     "options": [
       "GraphiqueCity",
       "MémoireVille",
-      "BIOS-Bourg",
-      "RAMVille"
+      "PériphérVille",
+      "BIOS-Bourg"
     ]
   },
   {
-    "question": "Pourquoi faut-il libérer de la place dans la RAM ? (bis)",
-    "correctAnswer": "Pour que l'ordinateur reste rapide",
+    "question": "À quoi ressemble MémoireVille ?",
+    "correctAnswer": "À une grande bibliothèque",
     "options": [
-      "Pour écouter de la musique",
-      "Pour que l'ordinateur reste rapide",
-      "Pour éteindre l'écran",
-      "Pour télécharger un jeu"
+      "À un parc",
+      "À une grande bibliothèque",
+      "À une piscine",
+      "À un château"
     ]
   },
   {
-    "question": "Comment s'appelle le guide de Thaïs dans le tome 2 ? (bis)",
-    "correctAnswer": "Tux",
+    "question": "Que fait MémoireVille dans l’ordinateur ?",
+    "correctAnswer": "Elle garde les fichiers à long terme",
     "options": [
-      "Chip",
-      "Tux",
-      "Windows",
-      "Rammy"
+      "Elle dessine des images",
+      "Elle garde les fichiers à long terme",
+      "Elle efface tout",
+      "Elle joue de la musique"
     ]
   },
   {
-    "question": "Que se passe-t-il si un périphérique est déconnecté ? (bis)",
-    "correctAnswer": "Il ne peut plus fonctionner",
+    "question": "Qui aide à ranger à MémoireVille ?",
+    "correctAnswer": "Les Archivistes",
     "options": [
-      "Il devient invisible",
-      "Il se met à clignoter",
-      "Il ne peut plus fonctionner",
-      "Il fait du bruit"
+      "Les Rammeurs",
+      "Les Archivistes",
+      "Les Graphistes",
+      "Les Connecteurs"
     ]
   },
   {
-    "question": "Quel périphérique permet d'imprimer des documents ? (bis)",
-    "correctAnswer": "L’imprimante",
+    "question": "Que fait Thaïs quand un tiroir déborde à MémoireVille ?",
+    "correctAnswer": "Elle trie les fichiers",
     "options": [
-      "La souris",
-      "L’écran",
-      "Le clavier",
-      "L’imprimante"
+      "Elle danse",
+      "Elle trie les fichiers",
+      "Elle chante",
+      "Elle s’enfuit"
     ]
   },
   {
-    "question": "Que faut-il faire quand le disque dur est plein ? (bis)",
-    "correctAnswer": "Supprimer ou déplacer des fichiers",
+    "question": "Que peut-on sauvegarder ailleurs à MémoireVille ?",
+    "correctAnswer": "Des photos précieuses",
     "options": [
-      "Le redémarrer",
-      "Le débrancher",
-      "Supprimer ou déplacer des fichiers",
-      "Changer de clavier"
+      "Des bonbons",
+      "Des photos précieuses",
+      "Des jouets",
+      "Des étoiles"
     ]
   },
   {
-    "question": "Que faut-il faire quand le disque dur est plein ? (bis)",
-    "correctAnswer": "Supprimer ou déplacer des fichiers",
+    "question": "Que fait Thaïs avec un vieux jeu à MémoireVille ?",
+    "correctAnswer": "Elle le supprime",
     "options": [
-      "Le redémarrer",
-      "Le débrancher",
-      "Supprimer ou déplacer des fichiers",
-      "Changer de clavier"
+      "Elle le garde",
+      "Elle le supprime",
+      "Elle le dessine",
+      "Elle le cache"
     ]
   },
   {
-    "question": "Que se passe-t-il si un périphérique est déconnecté ? (bis)",
-    "correctAnswer": "Il ne peut plus fonctionner",
+    "question": "Quel est le mot de passe du disque dur ?",
+    "correctAnswer": "THAIS3523/&",
     "options": [
-      "Il devient invisible",
-      "Il se met à clignoter",
-      "Il ne peut plus fonctionner",
-      "Il fait du bruit"
+      "TUX123",
+      "THAIS3523/&",
+      "RAM456",
+      "LINUX789"
     ]
   },
   {
-    "question": "Quel est le rôle principal de RAMVille ? (bis)",
-    "correctAnswer": "Stocker temporairement les informations",
+    "question": "À quoi Tux compare-t-il MémoireVille ?",
+    "correctAnswer": "À un coffre-fort",
     "options": [
-      "Garder tous les fichiers pour toujours",
-      "Stocker temporairement les informations",
-      "Afficher les images à l'écran",
-      "Créer des jeux"
+      "À une boîte à jouets",
+      "À un coffre-fort",
+      "À un nuage",
+      "À une fusée"
     ]
   },
   {
-    "question": "Que se passe-t-il si un périphérique est déconnecté ? (bis)",
-    "correctAnswer": "Il ne peut plus fonctionner",
+    "question": "Pourquoi faut-il ranger MémoireVille ?",
+    "correctAnswer": "Pour libérer de la place",
     "options": [
-      "Il devient invisible",
-      "Il se met à clignoter",
-      "Il ne peut plus fonctionner",
-      "Il fait du bruit"
+      "Pour s’amuser",
+      "Pour libérer de la place",
+      "Pour dessiner",
+      "Pour dormir"
     ]
   },
   {
-    "question": "Pourquoi faut-il libérer de la place dans la RAM ? (bis)",
-    "correctAnswer": "Pour que l'ordinateur reste rapide",
+    "question": "Où Thaïs arrive-t-elle après MémoireVille ?",
+    "correctAnswer": "GraphiqueCity",
     "options": [
-      "Pour écouter de la musique",
-      "Pour que l'ordinateur reste rapide",
-      "Pour éteindre l'écran",
-      "Pour télécharger un jeu"
+      "RAMVille",
+      "PériphérVille",
+      "GraphiqueCity",
+      "Processor-Ville"
     ]
   },
   {
-    "question": "Où vont les fichiers que Thaïs veut garder mais qui prennent trop de place ? (bis)",
-    "correctAnswer": "Sur une clé USB",
+    "question": "Que voit Thaïs à GraphiqueCity ?",
+    "correctAnswer": "Des images qui bougent",
     "options": [
-      "Dans la RAM",
-      "Sur une clé USB",
-      "Dans le BIOS",
-      "Dans le jeu"
+      "Des animaux",
+      "Des images qui bougent",
+      "Des nuages",
+      "Des arbres"
     ]
   },
   {
-    "question": "Quel est le rôle principal de RAMVille ? (bis)",
-    "correctAnswer": "Stocker temporairement les informations",
+    "question": "Que sont les pixels selon Tux ?",
+    "correctAnswer": "Des petits points qui forment les images",
     "options": [
-      "Garder tous les fichiers pour toujours",
-      "Stocker temporairement les informations",
-      "Afficher les images à l'écran",
-      "Créer des jeux"
+      "Des étoiles",
+      "Des petits points qui forment les images",
+      "Des bonbons",
+      "Des bulles"
     ]
   },
   {
-    "question": "Comment s'appelle le guide de Thaïs dans le tome 2 ? (bis)",
-    "correctAnswer": "Tux",
+    "question": "Que se passe-t-il si les pixels sont désordonnés ?",
+    "correctAnswer": "L’image devient floue",
     "options": [
-      "Chip",
-      "Tux",
-      "Windows",
-      "Rammy"
+      "L’image disparaît",
+      "L’image devient floue",
+      "L’image chante",
+      "L’image brille"
     ]
   },
   {
-    "question": "Que se passe-t-il si un périphérique est déconnecté ? (bis)",
-    "correctAnswer": "Il ne peut plus fonctionner",
+    "question": "Que fait la carte graphique ?",
+    "correctAnswer": "Elle transforme les données en images",
     "options": [
-      "Il devient invisible",
-      "Il se met à clignoter",
-      "Il ne peut plus fonctionner",
-      "Il fait du bruit"
+      "Elle range les fichiers",
+      "Elle transforme les données en images",
+      "Elle joue de la musique",
+      "Elle imprime des documents"
     ]
   },
   {
-    "question": "Que faut-il faire quand le disque dur est plein ? (bis)",
-    "correctAnswer": "Supprimer ou déplacer des fichiers",
+    "question": "Que fait Thaïs quand une image est floue ?",
+    "correctAnswer": "Elle remet les pixels en ordre",
     "options": [
-      "Le redémarrer",
-      "Le débrancher",
-      "Supprimer ou déplacer des fichiers",
-      "Changer de clavier"
+      "Elle dessine dessus",
+      "Elle remet les pixels en ordre",
+      "Elle s’enfuit",
+      "Elle chante"
     ]
   },
   {
-    "question": "Où vont les fichiers que Thaïs veut garder mais qui prennent trop de place ? (bis)",
-    "correctAnswer": "Sur une clé USB",
+    "question": "Pourquoi les images semblent-elles bouger dans une vidéo ?",
+    "correctAnswer": "Elles défilent très vite",
     "options": [
-      "Dans la RAM",
-      "Sur une clé USB",
-      "Dans le BIOS",
-      "Dans le jeu"
+      "Elles dansent",
+      "Elles défilent très vite",
+      "Elles volent",
+      "Elles s’arrêtent"
+    ]
+  },
+  {
+    "question": "À quoi Thaïs compare-t-elle la carte graphique ?",
+    "correctAnswer": "À une baguette magique",
+    "options": [
+      "À un crayon",
+      "À une baguette magique",
+      "À une chaise",
+      "À un nuage"
+    ]
+  },
+  {
+    "question": "Que se passe-t-il sans la carte graphique ?",
+    "correctAnswer": "L’écran ne montre rien",
+    "options": [
+      "L’écran chante",
+      "L’écran ne montre rien",
+      "L’écran clignote",
+      "L’écran dort"
+    ]
+  },
+  {
+    "question": "Quelle forme Thaïs colorie-t-elle en rouge à GraphiqueCity ?",
+    "correctAnswer": "Un cœur",
+    "options": [
+      "Une étoile",
+      "Un cœur",
+      "Un cercle",
+      "Un carré"
+    ]
+  },
+  {
+    "question": "Quelle forme Thaïs colorie-t-elle en jaune ?",
+    "correctAnswer": "Un smiley",
+    "options": [
+      "Un cœur",
+      "Un smiley",
+      "Un manchot",
+      "Une fleur"
+    ]
+  },
+  {
+    "question": "Quelle forme Thaïs colorie-t-elle en noir et jaune ?",
+    "correctAnswer": "Un manchot",
+    "options": [
+      "Un cœur",
+      "Un smiley",
+      "Un manchot",
+      "Un arbre"
+    ]
+  },
+  {
+    "question": "Où Thaïs va-t-elle après GraphiqueCity ?",
+    "correctAnswer": "PériphérVille",
+    "options": [
+      "RAMVille",
+      "MémoireVille",
+      "PériphérVille",
+      "GraphiqueCity"
+    ]
+  },
+  {
+    "question": "Que voit Thaïs à PériphérVille ?",
+    "correctAnswer": "Des claviers et des souris",
+    "options": [
+      "Des bonbons",
+      "Des claviers et des souris",
+      "Des étoiles",
+      "Des fleurs"
+    ]
+  },
+  {
+    "question": "Que sont les périphériques selon Tux ?",
+    "correctAnswer": "Des objets qu’on branche",
+    "options": [
+      "Des jouets",
+      "Des objets qu’on branche",
+      "Des dessins",
+      "Des chansons"
+    ]
+  },
+  {
+    "question": "Que fait le clavier à PériphérVille ?",
+    "correctAnswer": "Il envoie des messages en tapant",
+    "options": [
+      "Il dessine",
+      "Il envoie des messages en tapant",
+      "Il chante",
+      "Il dort"
+    ]
+  },
+  {
+    "question": "Que fait la souris dans l’ordinateur ?",
+    "correctAnswer": "Elle pointe et clique",
+    "options": [
+      "Elle court",
+      "Elle pointe et clique",
+      "Elle chante",
+      "Elle range"
+    ]
+  },
+  {
+    "question": "Que fait l’imprimante à PériphérVille ?",
+    "correctAnswer": "Elle met les fichiers sur papier",
+    "options": [
+      "Elle dessine des étoiles",
+      "Elle met les fichiers sur papier",
+      "Elle joue de la musique",
+      "Elle vole"
+    ]
+  },
+  {
+    "question": "Que fait Thaïs quand l’imprimante ne marche plus ?",
+    "correctAnswer": "Elle la reconnecte",
+    "options": [
+      "Elle la jette",
+      "Elle la reconnecte",
+      "Elle danse",
+      "Elle la cache"
+    ]
+  },
+  {
+    "question": "À quoi sert une clé USB selon Tux ?",
+    "correctAnswer": "À transporter des fichiers",
+    "options": [
+      "À dessiner",
+      "À transporter des fichiers",
+      "À chanter",
+      "À dormir"
+    ]
+  },
+  {
+    "question": "À quoi Thaïs compare-t-elle la clé USB ?",
+    "correctAnswer": "À un petit sac à dos",
+    "options": [
+      "À une boîte",
+      "À un petit sac à dos",
+      "À un nuage",
+      "À une chaise"
+    ]
+  },
+  {
+    "question": "Que se passe-t-il si un périphérique est débranché ?",
+    "correctAnswer": "Il ne fonctionne pas",
+    "options": [
+      "Il chante",
+      "Il ne fonctionne pas",
+      "Il brille",
+      "Il disparaît"
+    ]
+  },
+  {
+    "question": "Quel port utilise l’écran à PériphérVille ?",
+    "correctAnswer": "HDMI",
+    "options": [
+      "USB-A",
+      "HDMI",
+      "USB-C",
+      "Ethernet"
+    ]
+  },
+  {
+    "question": "Quel port utilise la clé USB ?",
+    "correctAnswer": "USB-A",
+    "options": [
+      "HDMI",
+      "USB-A",
+      "USB-C",
+      "Ethernet"
+    ]
+  },
+  {
+    "question": "Que fait Thaïs à la fin de PériphérVille ?",
+    "correctAnswer": "Elle reconnecte les périphériques",
+    "options": [
+      "Elle dessine",
+      "Elle reconnecte les périphériques",
+      "Elle chante",
+      "Elle s’enfuit"
+    ]
+  },
+  {
+    "question": "Que voit Thaïs avant de quitter l’ordinateur ?",
+    "correctAnswer": "La lumière de l’écran",
+    "options": [
+      "Un dragon",
+      "La lumière de l’écran",
+      "Un arc-en-ciel",
+      "Une fusée"
+    ]
+  },
+  {
+    "question": "Que dit Tux à Thaïs à la fin de PériphérVille ?",
+    "correctAnswer": "L’ordinateur est prêt grâce à toi",
+    "options": [
+      "Au revoir !",
+      "L’ordinateur est prêt grâce à toi",
+      "Reviens vite !",
+      "Attention !"
+    ]
+  },
+  {
+    "question": "Que demande Thaïs à Tux avant de partir ?",
+    "correctAnswer": "Si un téléphone fonctionne comme un ordinateur",
+    "options": [
+      "Si elle peut manger un gâteau",
+      "Si un téléphone fonctionne comme un ordinateur",
+      "Si elle peut voler",
+      "Si le ciel est bleu"
+    ]
+  },
+  {
+    "question": "Que répond Tux sur les téléphones ?",
+    "correctAnswer": "C’est un petit ordinateur",
+    "options": [
+      "C’est une fusée",
+      "C’est un petit ordinateur",
+      "C’est un jouet",
+      "C’est une étoile"
+    ]
+  },
+  {
+    "question": "Où Thaïs revient-elle à la fin ?",
+    "correctAnswer": "Sur le canapé",
+    "options": [
+      "Dans un parc",
+      "Sur le canapé",
+      "Sur la lune",
+      "Dans une piscine"
+    ]
+  },
+  {
+    "question": "Que ressent Thaïs en revenant dans le monde réel ?",
+    "correctAnswer": "Elle est émerveillée",
+    "options": [
+      "Elle est fatiguée",
+      "Elle est émerveillée",
+      "Elle a faim",
+      "Elle veut danser"
+    ]
+  },
+  {
+    "question": "Pourquoi Thaïs trouve-t-elle l’aventure fascinante ?",
+    "correctAnswer": "Elle a appris beaucoup de choses",
+    "options": [
+      "Elle a vu des dragons",
+      "Elle a appris beaucoup de choses",
+      "Elle a mangé des bonbons",
+      "Elle a dansé"
+    ]
+  },
+  {
+    "question": "Que représente le chemin brillant dans l’histoire ?",
+    "correctAnswer": "Le voyage entre les villes",
+    "options": [
+      "Une rivière",
+      "Le voyage entre les villes",
+      "Un arc-en-ciel",
+      "Un escalier"
+    ]
+  },
+  {
+    "question": "Que fait Thaïs quand elle choisit Tux ?",
+    "correctAnswer": "Elle veut une aventure différente",
+    "options": [
+      "Elle s’enfuit",
+      "Elle veut une aventure différente",
+      "Elle chante",
+      "Elle dort"
+    ]
+  },
+  {
+    "question": "Que dit Thaïs sur RAMVille ?",
+    "correctAnswer": "Ce sont des souvenirs rapides",
+    "options": [
+      "Ce sont des étoiles",
+      "Ce sont des souvenirs rapides",
+      "Ce sont des bonbons",
+      "Ce sont des jouets"
+    ]
+  },
+  {
+    "question": "Que fait Thaïs avec les fichiers à MémoireVille ?",
+    "correctAnswer": "Elle les colorie pour trier",
+    "options": [
+      "Elle les mange",
+      "Elle les colorie pour trier",
+      "Elle les jette",
+      "Elle les cache"
+    ]
+  },
+  {
+    "question": "Que dit Tux sur les périphériques ?",
+    "correctAnswer": "Ils aident l’ordinateur",
+    "options": [
+      "Ils dessinent",
+      "Ils aident l’ordinateur",
+      "Ils chantent",
+      "Ils dorment"
+    ]
+  },
+  {
+    "question": "Que voit Thaïs en arrivant à RAMVille ?",
+    "correctAnswer": "Une ville calme qui scintille",
+    "options": [
+      "Un dragon",
+      "Une ville calme qui scintille",
+      "Un nuage",
+      "Une fusée"
+    ]
+  },
+  {
+    "question": "Pourquoi Thaïs aide-t-elle à GraphiqueCity ?",
+    "correctAnswer": "Pour réparer les images",
+    "options": [
+      "Pour chanter",
+      "Pour réparer les images",
+      "Pour danser",
+      "Pour dormir"
+    ]
+  },
+  {
+    "question": "Que dit Thaïs sur les pixels ?",
+    "correctAnswer": "Tout ce que je vois vient d’ici",
+    "options": [
+      "Ils sont trop gros",
+      "Tout ce que je vois vient d’ici",
+      "Ils sont silencieux",
+      "Ils sont cassés"
+    ]
+  },
+  {
+    "question": "Que fait Thaïs avec les circuits lumineux ?",
+    "correctAnswer": "Elle les traverse",
+    "options": [
+      "Elle les casse",
+      "Elle les traverse",
+      "Elle les peint",
+      "Elle les mange"
+    ]
+  },
+  {
+    "question": "Que dit Tux sur la mémoire à long terme ?",
+    "correctAnswer": "Elle est plus lente mais plus grande",
+    "options": [
+      "Elle est rapide et petite",
+      "Elle est plus lente mais plus grande",
+      "Elle est cassée",
+      "Elle est silencieuse"
+    ]
+  },
+  {
+    "question": "Que fait Thaïs quand elle voit l’écran de son papa ?",
+    "correctAnswer": "Elle sourit",
+    "options": [
+      "Elle pleure",
+      "Elle sourit",
+      "Elle s’enfuit",
+      "Elle dort"
+    ]
+  },
+  {
+    "question": "Que représente le tourbillon de couleurs ?",
+    "correctAnswer": "L’entrée dans l’ordinateur",
+    "options": [
+      "Une tempête",
+      "L’entrée dans l’ordinateur",
+      "Un rêve",
+      "Une danse"
+    ]
+  },
+  {
+    "question": "Que dit Thaïs sur l’ordinateur à la fin ?",
+    "correctAnswer": "C’est un monde qu’elle connaît",
+    "options": [
+      "C’est une boîte",
+      "C’est un monde qu’elle connaît",
+      "C’est un jouet",
+      "C’est une étoile"
+    ]
+  },
+  {
+    "question": "Que fait Thaïs pour aider à RAMVille ?",
+    "correctAnswer": "Elle organise les blocs",
+    "options": [
+      "Elle chante",
+      "Elle organise les blocs",
+      "Elle dessine",
+      "Elle dort"
+    ]
+  },
+  {
+    "question": "Que voit Thaïs à MémoireVille ?",
+    "correctAnswer": "Des tiroirs géants",
+    "options": [
+      "Des bonbons",
+      "Des tiroirs géants",
+      "Des étoiles",
+      "Des fleurs"
+    ]
+  },
+  {
+    "question": "Pourquoi Thaïs trie-t-elle les fichiers ?",
+    "correctAnswer": "Pour libérer de l’espace",
+    "options": [
+      "Pour jouer",
+      "Pour libérer de l’espace",
+      "Pour chanter",
+      "Pour danser"
+    ]
+  },
+  {
+    "question": "Que dit Thaïs en entrant dans GraphiqueCity ?",
+    "correctAnswer": "Waouh, tout ce que je vois vient d’ici !",
+    "options": [
+      "Où suis-je ?",
+      "Waouh, tout ce que je vois vient d’ici !",
+      "C’est bizarre !",
+      "Au secours !"
+    ]
+  },
+  {
+    "question": "Que fait Tux pour aider Thaïs ?",
+    "correctAnswer": "Il lui explique tout",
+    "options": [
+      "Il lui donne des bonbons",
+      "Il lui explique tout",
+      "Il chante",
+      "Il s’enfuit"
+    ]
+  },
+  {
+    "question": "Que fait Thaïs avec les pixels désordonnés ?",
+    "correctAnswer": "Elle les remet en place",
+    "options": [
+      "Elle les mange",
+      "Elle les remet en place",
+      "Elle les jette",
+      "Elle les cache"
+    ]
+  },
+  {
+    "question": "Pourquoi les périphériques sont-ils importants ?",
+    "correctAnswer": "Pour communiquer avec l’ordinateur",
+    "options": [
+      "Pour dessiner",
+      "Pour communiquer avec l’ordinateur",
+      "Pour chanter",
+      "Pour dormir"
+    ]
+  },
+  {
+    "question": "Que dit Thaïs sur les objets à PériphérVille ?",
+    "correctAnswer": "Ils sont comme les bras de l’ordinateur",
+    "options": [
+      "Ils sont trop lents",
+      "Ils sont comme les bras de l’ordinateur",
+      "Ils sont rigolos",
+      "Ils sont cassés"
+    ]
+  },
+  {
+    "question": "Que fait Thaïs quand elle comprend les pixels ?",
+    "correctAnswer": "Elle rit",
+    "options": [
+      "Elle pleure",
+      "Elle rit",
+      "Elle s’enfuit",
+      "Elle dort"
+    ]
+  },
+  {
+    "question": "Que voit Thaïs en sortant de l’ordinateur ?",
+    "correctAnswer": "Le salon",
+    "options": [
+      "Un dragon",
+      "Le salon",
+      "Une fusée",
+      "Un arbre"
+    ]
+  },
+  {
+    "question": "Que pense Thaïs de son voyage à la fin ?",
+    "correctAnswer": "C’était fascinant",
+    "options": [
+      "C’était ennuyeux",
+      "C’était fascinant",
+      "C’était trop long",
+      "C’était bizarre"
+    ]
+  },
+  {
+    "question": "Que fait Tux avec la RAM à RAMVille ?",
+    "correctAnswer": "Il la vide pour faire de la place",
+    "options": [
+      "Il la casse",
+      "Il la vide pour faire de la place",
+      "Il la peint",
+      "Il la mange"
+    ]
+  },
+  {
+    "question": "Que dit Tux sur les images rapides ?",
+    "correctAnswer": "Elles créent un mouvement fluide",
+    "options": [
+      "Elles sont cassées",
+      "Elles créent un mouvement fluide",
+      "Elles sont silencieuses",
+      "Elles sont lentes"
+    ]
+  },
+  {
+    "question": "Que fait Thaïs avec le bouton de l’ordinateur ?",
+    "correctAnswer": "Elle l’appuie",
+    "options": [
+      "Elle le regarde",
+      "Elle l’appuie",
+      "Elle le casse",
+      "Elle le peint"
+    ]
+  },
+  {
+    "question": "Que voit Thaïs avant d’entrer dans RAMVille ?",
+    "correctAnswer": "Un chemin brillant",
+    "options": [
+      "Un pont",
+      "Un chemin brillant",
+      "Un arbre",
+      "Une rivière"
+    ]
+  },
+  {
+    "question": "Pourquoi Thaïs aide-t-elle à PériphérVille ?",
+    "correctAnswer": "Pour reconnecter les objets",
+    "options": [
+      "Pour chanter",
+      "Pour reconnecter les objets",
+      "Pour danser",
+      "Pour dormir"
+    ]
+  },
+  {
+    "question": "Que dit Thaïs sur la mémoire à la fin ?",
+    "correctAnswer": "Elle garde les choses importantes",
+    "options": [
+      "Elle est cassée",
+      "Elle garde les choses importantes",
+      "Elle est silencieuse",
+      "Elle est trop petite"
+    ]
+  },
+  {
+    "question": "Que fait Thaïs quand elle voit les périphériques ?",
+    "correctAnswer": "Elle les observe",
+    "options": [
+      "Elle les casse",
+      "Elle les observe",
+      "Elle les ignore",
+      "Elle les mange"
+    ]
+  },
+  {
+    "question": "Que représente la lumière différente à la fin ?",
+    "correctAnswer": "La sortie de l’ordinateur",
+    "options": [
+      "Une lampe",
+      "La sortie de l’ordinateur",
+      "Un feu",
+      "Une étoile"
+    ]
+  },
+  {
+    "question": "Que fait Thaïs pour comprendre les composants ?",
+    "correctAnswer": "Elle pose des questions",
+    "options": [
+      "Elle dort",
+      "Elle pose des questions",
+      "Elle chante",
+      "Elle dessine"
+    ]
+  },
+  {
+    "question": "Que dit Tux sur les tâches de la carte graphique ?",
+    "correctAnswer": "Elle agit rapidement",
+    "options": [
+      "Elle est lente",
+      "Elle agit rapidement",
+      "Elle est cassée",
+      "Elle dort"
+    ]
+  },
+  {
+    "question": "Que ressent Thaïs en apprenant sur les images ?",
+    "correctAnswer": "C’est fascinant",
+    "options": [
+      "C’est trop dur",
+      "C’est fascinant",
+      "C’est ennuyeux",
+      "C’est fatiguant"
+    ]
+  },
+  {
+    "question": "Que voit Thaïs dans les circuits lumineux à la fin ?",
+    "correctAnswer": "Une lumière différente",
+    "options": [
+      "Un monstre",
+      "Une lumière différente",
+      "Un oiseau",
+      "Un trésor"
     ]
   }
 ]
