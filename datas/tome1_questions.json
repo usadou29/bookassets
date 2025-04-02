@@ -1,1002 +1,942 @@
 [
   {
-    "question": "Dans quelle ville Thaïs arrive-t-elle en premier ?",
+    "question": "Que fait Thaïs au début de l’histoire ?",
+    "correctAnswer": "Elle appuie sur le bouton de l’ordinateur",
+    "options": [
+      "Elle mange une pomme",
+      "Elle appuie sur le bouton de l’ordinateur",
+      "Elle danse dans sa chambre",
+      "Elle ferme les yeux"
+    ]
+  },
+  {
+    "question": "Où Thaïs atterrit-elle après avoir touché l’écran ?",
+    "correctAnswer": "Dans l’ordinateur",
+    "options": [
+      "Dans un parc",
+      "Dans l’ordinateur",
+      "Sur la lune",
+      "Dans une piscine"
+    ]
+  },
+  {
+    "question": "Comment s’appelle la première ville que Thaïs découvre ?",
     "correctAnswer": "BIOS-Bourg",
     "options": [
-      "BIOS-Bourg",
-      "ProcessorVille",
+      "Processor-Ville",
       "RAMVille",
+      "BIOS-Bourg",
       "GraphiqueCity"
     ]
   },
   {
-    "question": "Qui est le guide de Thaïs dans le tome 1 ?",
-    "correctAnswer": "CHIP",
+    "question": "Qui accueille Thaïs à BIOS-Bourg ?",
+    "correctAnswer": "Chip",
     "options": [
-      "RAM",
-      "CHIP",
-      "BIOS",
-      "CPU"
+      "Windows",
+      "Chip",
+      "Tux",
+      "Un chat"
     ]
   },
   {
-    "question": "Que fait le BIOS au démarrage ?",
-    "correctAnswer": "Il vérifie que tout fonctionne bien",
+    "question": "À quoi sert BIOS-Bourg dans l’ordinateur ?",
+    "correctAnswer": "À vérifier que tout est prêt pour démarrer",
+    "options": [
+      "À jouer de la musique",
+      "À vérifier que tout est prêt pour démarrer",
+      "À dessiner des images",
+      "À ranger des jouets"
+    ]
+  },
+  {
+    "question": "Que se passe-t-il si le BIOS ne fonctionne pas ?",
+    "correctAnswer": "L’ordinateur ne démarre pas",
+    "options": [
+      "L’écran devient rose",
+      "L’ordinateur ne démarre pas",
+      "Il fait nuit dans la maison",
+      "La musique s’arrête"
+    ]
+  },
+  {
+    "question": "Quelle heure doit afficher l’horloge pour que l’ordinateur démarre ?",
+    "correctAnswer": "12h00",
+    "options": [
+      "6h00",
+      "12h00",
+      "3h00",
+      "9h00"
+    ]
+  },
+  {
+    "question": "Que doit faire Thaïs pour aider Chip avec l’horloge ?",
+    "correctAnswer": "Ajuster les aiguilles",
+    "options": [
+      "Appuyer sur un bouton rouge",
+      "Ajuster les aiguilles",
+      "Chanter une chanson",
+      "Dessiner une horloge"
+    ]
+  },
+  {
+    "question": "À quoi ressemble le disque dur selon Chip ?",
+    "correctAnswer": "À une grande étagère",
+    "options": [
+      "À un petit nuage",
+      "À une grande étagère",
+      "À une balle",
+      "À un miroir"
+    ]
+  },
+  {
+    "question": "Combien de clés Thaïs doit-elle trouver pour activer le disque dur ?",
+    "correctAnswer": "3",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "question": "Quel bouton Thaïs appuie-t-elle pour activer le disque dur ?",
+    "correctAnswer": "Le bouton bleu",
+    "options": [
+      "Le bouton vert",
+      "Le bouton bleu",
+      "Le bouton jaune",
+      "Le bouton rouge"
+    ]
+  },
+  {
+    "question": "Qu’est-ce que la RAM selon Chip ?",
+    "correctAnswer": "Un tableau magique pour les tâches immédiates",
+    "options": [
+      "Une boîte à bonbons",
+      "Un tableau magique pour les tâches immédiates",
+      "Un écran coloré",
+      "Une chaise"
+    ]
+  },
+  {
+    "question": "Que se passe-t-il si la RAM n’est pas bien connectée ?",
+    "correctAnswer": "L’ordinateur ne peut pas travailler",
+    "options": [
+      "L’ordinateur chante",
+      "L’ordinateur ne peut pas travailler",
+      "L’écran clignote",
+      "Il fait chaud"
+    ]
+  },
+  {
+    "question": "Comment Thaïs répare-t-elle la RAM ?",
+    "correctAnswer": "En replaçant les blocs au bon endroit",
+    "options": [
+      "En soufflant dessus",
+      "En replaçant les blocs au bon endroit",
+      "En dansant",
+      "En criant"
+    ]
+  },
+  {
+    "question": "Que vérifie le BIOS avant de démarrer l’ordinateur ?",
+    "correctAnswer": "La RAM, le disque dur et le processeur",
+    "options": [
+      "Le clavier et la souris",
+      "La RAM, le disque dur et le processeur",
+      "L’écran et les haut-parleurs",
+      "Les lumières et les boutons"
+    ]
+  },
+  {
+    "question": "Qui guide Thaïs après BIOS-Bourg ?",
+    "correctAnswer": "Windows",
+    "options": [
+      "Chip",
+      "Tux",
+      "Windows",
+      "Un oiseau"
+    ]
+  },
+  {
+    "question": "Que représente l’icône de Windows ?",
+    "correctAnswer": "Une fenêtre colorée",
+    "options": [
+      "Un poisson",
+      "Une fenêtre colorée",
+      "Un arbre",
+      "Un soleil"
+    ]
+  },
+  {
+    "question": "Quel autre guide Thaïs aurait-elle pu choisir ?",
+    "correctAnswer": "Linux",
+    "options": [
+      "Mac",
+      "Linux",
+      "Android",
+      "Solaris"
+    ]
+  },
+  {
+    "question": "Que fait le système d’exploitation dans l’ordinateur ?",
+    "correctAnswer": "Il organise le travail",
+    "options": [
+      "Il dessine des étoiles",
+      "Il organise le travail",
+      "Il fait du bruit",
+      "Il dort"
+    ]
+  },
+  {
+    "question": "Qu’est-ce qu’une icône selon Windows ?",
+    "correctAnswer": "Un petit bouton qu’on peut cliquer",
+    "options": [
+      "Une lumière qui clignote",
+      "Un petit bouton qu’on peut cliquer",
+      "Une grande boîte",
+      "Un jouet"
+    ]
+  },
+  {
+    "question": "À quoi sert la loupe dans les icônes de Windows ?",
+    "correctAnswer": "Rechercher des fichiers",
+    "options": [
+      "Écouter de la musique",
+      "Rechercher des fichiers",
+      "Dessiner",
+      "Jeter des fichiers"
+    ]
+  },
+  {
+    "question": "Qu’est-ce qu’un dossier dans l’ordinateur ?",
+    "correctAnswer": "Une boîte pour ranger des fichiers",
+    "options": [
+      "Un jeu",
+      "Une boîte pour ranger des fichiers",
+      "Une chanson",
+      "Un dessin"
+    ]
+  },
+  {
+    "question": "Où Thaïs arrive-t-elle après OS-Ville ?",
+    "correctAnswer": "Processor-Ville",
+    "options": [
+      "RAMVille",
+      "Processor-Ville",
+      "MémoireVille",
+      "GraphiqueCity"
+    ]
+  },
+  {
+    "question": "Que fait le processeur dans Processor-Ville ?",
+    "correctAnswer": "Il exécute les ordres",
+    "options": [
+      "Il range les fichiers",
+      "Il exécute les ordres",
+      "Il affiche des images",
+      "Il chante"
+    ]
+  },
+  {
+    "question": "Comment s’appellent les personnages qui travaillent à Processor-Ville ?",
+    "correctAnswer": "Les Calculateurs",
+    "options": [
+      "Les Coureurs",
+      "Les Calculateurs",
+      "Les Chanteurs",
+      "Les Dessinateurs"
+    ]
+  },
+  {
+    "question": "Que transportent les Calculateurs ?",
+    "correctAnswer": "Des blocs de données",
+    "options": [
+      "Des bonbons",
+      "Des blocs de données",
+      "Des jouets",
+      "Des crayons"
+    ]
+  },
+  {
+    "question": "Qu’est-ce que le langage binaire ?",
+    "correctAnswer": "Un langage avec des 1 et des 0",
+    "options": [
+      "Un langage avec des lettres",
+      "Un langage avec des 1 et des 0",
+      "Un langage avec des dessins",
+      "Un langage avec des sons"
+    ]
+  },
+  {
+    "question": "Que signifie le 1 dans le binaire ?",
+    "correctAnswer": "Allumé",
+    "options": [
+      "Éteint",
+      "Allumé",
+      "Cassé",
+      "Silencieux"
+    ]
+  },
+  {
+    "question": "Comment Windows explique-t-il le binaire à Thaïs ?",
+    "correctAnswer": "Avec des ampoules allumées ou éteintes",
+    "options": [
+      "Avec des animaux",
+      "Avec des ampoules allumées ou éteintes",
+      "Avec des chansons",
+      "Avec des couleurs"
+    ]
+  },
+  {
+    "question": "Quel est le binaire du chiffre 1 ?",
+    "correctAnswer": "0001",
+    "options": [
+      "0010",
+      "0001",
+      "0100",
+      "1000"
+    ]
+  },
+  {
+    "question": "Quel est le binaire du chiffre 3 ?",
+    "correctAnswer": "0011",
+    "options": [
+      "0011",
+      "0101",
+      "1000",
+      "0000"
+    ]
+  },
+  {
+    "question": "Que fait le processeur quand il reçoit plusieurs tâches ?",
+    "correctAnswer": "Il choisit l’ordre des tâches",
+    "options": [
+      "Il s’arrête",
+      "Il choisit l’ordre des tâches",
+      "Il les fait toutes en même temps",
+      "Il les ignore"
+    ]
+  },
+  {
+    "question": "Quelle tâche le processeur fait-il en premier ?",
+    "correctAnswer": "Ouvrir un jeu",
+    "options": [
+      "Vérifier l’heure",
+      "Ouvrir un jeu",
+      "Envoyer un e-mail",
+      "Éteindre l’écran"
+    ]
+  },
+  {
+    "question": "Pourquoi ouvrir un jeu prend-il plus de temps ?",
+    "correctAnswer": "Il faut charger les images et les sons",
+    "options": [
+      "Il faut écrire une lettre",
+      "Il faut charger les images et les sons",
+      "Il faut attendre la pluie",
+      "Il faut compter les étoiles"
+    ]
+  },
+  {
+    "question": "Quelle tâche est la plus rapide pour le processeur ?",
+    "correctAnswer": "Vérifier l’heure",
+    "options": [
+      "Ouvrir un jeu",
+      "Envoyer un e-mail",
+      "Vérifier l’heure",
+      "Dessiner une image"
+    ]
+  },
+  {
+    "question": "Que fait Thaïs à la fin de son voyage ?",
+    "correctAnswer": "Elle revient dans le salon",
+    "options": [
+      "Elle reste dans l’ordinateur",
+      "Elle revient dans le salon",
+      "Elle va dans la cuisine",
+      "Elle s’endort"
+    ]
+  },
+  {
+    "question": "Que voit Thaïs en revenant dans le monde réel ?",
+    "correctAnswer": "L’ordinateur de son papa",
+    "options": [
+      "Un dragon",
+      "L’ordinateur de son papa",
+      "Un arc-en-ciel",
+      "Une fusée"
+    ]
+  },
+  {
+    "question": "Que demande Thaïs à Windows avant de partir ?",
+    "correctAnswer": "Si les téléphones fonctionnent comme les ordinateurs",
+    "options": [
+      "Si elle peut manger un gâteau",
+      "Si les téléphones fonctionnent comme les ordinateurs",
+      "Si elle peut voler",
+      "Si le ciel est bleu"
+    ]
+  },
+  {
+    "question": "Que répond Windows à propos des téléphones ?",
+    "correctAnswer": "Ils sont comme des mini-ordinateurs",
+    "options": [
+      "Ils sont magiques",
+      "Ils sont comme des mini-ordinateurs",
+      "Ils ne fonctionnent pas",
+      "Ils dansent"
+    ]
+  },
+  {
+    "question": "Quelles villes Thaïs n’a-t-elle pas encore visitées ?",
+    "correctAnswer": "RAMVille, MémoireVille, GraphiqueCity, PériphérVille",
+    "options": [
+      "BIOS-Bourg et OS-Ville",
+      "RAMVille, MémoireVille, GraphiqueCity, PériphérVille",
+      "Processor-Ville et OS-Ville",
+      "La ville des bonbons"
+    ]
+  },
+  {
+    "question": "Pourquoi Thaïs veut-elle revenir dans l’ordinateur ?",
+    "correctAnswer": "Pour explorer d’autres villes",
+    "options": [
+      "Pour manger des gâteaux",
+      "Pour explorer d’autres villes",
+      "Pour dormir",
+      "Pour nager"
+    ]
+  },
+  {
+    "question": "Qu’est-ce qu’un fichier selon Windows ?",
+    "correctAnswer": "Une feuille avec des informations",
+    "options": [
+      "Un jouet",
+      "Une feuille avec des informations",
+      "Une chaise",
+      "Un nuage"
+    ]
+  },
+  {
+    "question": "Que fait la corbeille dans les icônes de Windows ?",
+    "correctAnswer": "Jeter des fichiers",
+    "options": [
+      "Jeter des fichiers",
+      "Jouer de la musique",
+      "Ouvrir des jeux",
+      "Ranger des dossiers"
+    ]
+  },
+  {
+    "question": "Pourquoi Thaïs est-elle curieuse au début ?",
+    "correctAnswer": "Elle veut savoir comment fonctionne l’ordinateur",
+    "options": [
+      "Elle veut savoir comment fonctionne l’ordinateur",
+      "Elle veut dessiner",
+      "Elle a perdu quelque chose",
+      "Elle aime les bonbons"
+    ]
+  },
+  {
+    "question": "Que voit Thaïs quand l’écran s’allume ?",
+    "correctAnswer": "Des lumières qui dansent",
+    "options": [
+      "Des étoiles filantes",
+      "Des lumières qui dansent",
+      "Des bulles",
+      "Des oiseaux"
+    ]
+  },
+  {
+    "question": "Comment Thaïs entre-t-elle dans l’ordinateur ?",
+    "correctAnswer": "En touchant l’écran",
+    "options": [
+      "En sautant",
+      "En touchant l’écran",
+      "En criant",
+      "En fermant les yeux"
+    ]
+  },
+  {
+    "question": "Que dit Chip sur le système d’exploitation ?",
+    "correctAnswer": "Il est lancé après le BIOS",
+    "options": [
+      "Il dessine des images",
+      "Il est lancé après le BIOS",
+      "Il éteint l’ordinateur",
+      "Il fait du bruit"
+    ]
+  },
+  {
+    "question": "Que doit faire Thaïs avec les instructions du processeur ?",
+    "correctAnswer": "Trier les bonnes et les mauvaises",
+    "options": [
+      "Les manger",
+      "Trier les bonnes et les mauvaises",
+      "Les dessiner",
+      "Les cacher"
+    ]
+  },
+  {
+    "question": "Quelle est une bonne instruction pour le BIOS ?",
+    "correctAnswer": "Vérifier si la RAM est bien connectée",
+    "options": [
+      "Jouer à un jeu",
+      "Vérifier si la RAM est bien connectée",
+      "Écouter de la musique",
+      "Regarder une vidéo"
+    ]
+  },
+  {
+    "question": "Que fait Thaïs quand elle réussit une mission ?",
+    "correctAnswer": "Elle est fière",
+    "options": [
+      "Elle pleure",
+      "Elle est fière",
+      "Elle s’en va",
+      "Elle dort"
+    ]
+  },
+  {
+    "question": "Que représente la porte brillante au début ?",
+    "correctAnswer": "L’entrée dans BIOS-Bourg",
+    "options": [
+      "Une sortie",
+      "L’entrée dans BIOS-Bourg",
+      "Une fenêtre",
+      "Un miroir"
+    ]
+  },
+  {
+    "question": "Pourquoi l’ordinateur a-t-il besoin d’un processeur ?",
+    "correctAnswer": "Pour exécuter les ordres",
+    "options": [
+      "Pour faire du bruit",
+      "Pour exécuter les ordres",
+      "Pour ranger les fichiers",
+      "Pour danser"
+    ]
+  },
+  {
+    "question": "Que dit Windows sur les jeux dans Processor-Ville ?",
+    "correctAnswer": "Ils demandent beaucoup de préparation",
+    "options": [
+      "Ils sont faciles à ouvrir",
+      "Ils demandent beaucoup de préparation",
+      "Ils sont silencieux",
+      "Ils n’ont pas besoin du processeur"
+    ]
+  },
+  {
+    "question": "Comment Thaïs aide-t-elle les Calculateurs ?",
+    "correctAnswer": "En convertissant des nombres en binaire",
+    "options": [
+      "En chantant",
+      "En convertissant des nombres en binaire",
+      "En dessinant",
+      "En courant"
+    ]
+  },
+  {
+    "question": "Que voit Thaïs dans Processor-Ville ?",
+    "correctAnswer": "Des bâtiments qui vibrent",
+    "options": [
+      "Des arbres qui dansent",
+      "Des bâtiments qui vibrent",
+      "Des nuages colorés",
+      "Des poissons"
+    ]
+  },
+  {
+    "question": "Que fait Windows à la fin du voyage ?",
+    "correctAnswer": "Il dit au revoir à Thaïs",
+    "options": [
+      "Il disparaît",
+      "Il dit au revoir à Thaïs",
+      "Il chante une chanson",
+      "Il s’endort"
+    ]
+  },
+  {
+    "question": "Pourquoi Thaïs trouve-t-elle l’aventure incroyable ?",
+    "correctAnswer": "Elle a appris beaucoup de choses",
+    "options": [
+      "Elle a mangé des bonbons",
+      "Elle a appris beaucoup de choses",
+      "Elle a vu des dragons",
+      "Elle a dansé"
+    ]
+  },
+  {
+    "question": "Que représente le chemin lumineux dans l’histoire ?",
+    "correctAnswer": "Le voyage entre les villes",
+    "options": [
+      "Une rivière",
+      "Le voyage entre les villes",
+      "Un arc-en-ciel",
+      "Un escalier"
+    ]
+  },
+  {
+    "question": "Que fait Thaïs quand elle voit les deux symboles ?",
+    "correctAnswer": "Elle choisit Windows",
+    "options": [
+      "Elle s’enfuit",
+      "Elle choisit Windows",
+      "Elle les ignore",
+      "Elle appelle Chip"
+    ]
+  },
+  {
+    "question": "Que promet Thaïs à Windows ?",
+    "correctAnswer": "De revenir explorer",
+    "options": [
+      "De lui donner un cadeau",
+      "De revenir explorer",
+      "De lui écrire une lettre",
+      "De lui chanter une chanson"
+    ]
+  },
+  {
+    "question": "Que ressent Thaïs en revenant dans le salon ?",
+    "correctAnswer": "Tout a changé en elle",
+    "options": [
+      "Elle a faim",
+      "Tout a changé en elle",
+      "Elle est fatiguée",
+      "Elle veut danser"
+    ]
+  },
+  {
+    "question": "Que découvre Thaïs sur les données ?",
+    "correctAnswer": "Ce sont des infos pour l’ordinateur",
+    "options": [
+      "Ce sont des jouets",
+      "Ce sont des infos pour l’ordinateur",
+      "Ce sont des bonbons",
+      "Ce sont des étoiles"
+    ]
+  },
+  {
+    "question": "Pourquoi le processeur est-il comme un chef d’orchestre ?",
+    "correctAnswer": "Il organise les tâches",
     "options": [
       "Il joue de la musique",
-      "Il vérifie que tout fonctionne bien",
-      "Il éteint l'ordinateur",
-      "Il installe des jeux"
+      "Il organise les tâches",
+      "Il dessine",
+      "Il dort"
     ]
   },
   {
-    "question": "Pourquoi faut-il régler l'horloge du BIOS ?",
-    "correctAnswer": "Pour que l'ordinateur sache l'heure",
+    "question": "Que fait Thaïs avec le panneau de la RAM ?",
+    "correctAnswer": "Elle replace les blocs",
     "options": [
-      "Pour faire joli",
-      "Pour que l'ordinateur sache l'heure",
-      "Pour jouer à des jeux",
-      "Pour écouter de la musique"
+      "Elle le casse",
+      "Elle replace les blocs",
+      "Elle le peint",
+      "Elle le cache"
     ]
   },
   {
-    "question": "Question 5 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 5",
+    "question": "Que dit Chip quand Thaïs réussit à BIOS-Bourg ?",
+    "correctAnswer": "Bravo, Thaïs !",
     "options": [
-      "Mauvaise 2",
-      "Bonne réponse 5",
-      "Mauvaise 3",
-      "Mauvaise 1"
+      "Au revoir !",
+      "Bravo, Thaïs !",
+      "Attention !",
+      "Reviens vite !"
     ]
   },
   {
-    "question": "Question 6 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 6",
+    "question": "Que voit Thaïs avant d’entrer dans BIOS-Bourg ?",
+    "correctAnswer": "Une grande porte brillante",
     "options": [
-      "Mauvaise 3",
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Bonne réponse 6"
+      "Un petit pont",
+      "Une grande porte brillante",
+      "Un arbre magique",
+      "Une rivière"
     ]
   },
   {
-    "question": "Question 7 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 7",
+    "question": "Pourquoi Thaïs aime-t-elle Processor-Ville ?",
+    "correctAnswer": "Tout va super vite",
     "options": [
-      "Mauvaise 3",
-      "Bonne réponse 7",
-      "Mauvaise 2",
-      "Mauvaise 1"
+      "Il y a des bonbons",
+      "Tout va super vite",
+      "Il y a des fleurs",
+      "C’est silencieux"
     ]
   },
   {
-    "question": "Question 8 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 8",
+    "question": "Que fait Thaïs quand elle voit l’écran de son papa ?",
+    "correctAnswer": "Elle sourit",
     "options": [
-      "Bonne réponse 8",
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Mauvaise 1"
+      "Elle pleure",
+      "Elle sourit",
+      "Elle s’enfuit",
+      "Elle ferme les yeux"
     ]
   },
   {
-    "question": "Question 9 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 9",
+    "question": "Que représente le tourbillon de couleurs ?",
+    "correctAnswer": "Le passage dans l’ordinateur",
     "options": [
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Bonne réponse 9",
-      "Mauvaise 3"
+      "Une tempête",
+      "Le passage dans l’ordinateur",
+      "Un rêve",
+      "Une danse"
     ]
   },
   {
-    "question": "Question 10 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 10",
+    "question": "Que dit Windows sur l’ordinateur de Thaïs ?",
+    "correctAnswer": "Il est prêt à l’aider",
     "options": [
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Bonne réponse 10"
+      "Il est cassé",
+      "Il est prêt à l’aider",
+      "Il est trop vieux",
+      "Il est magique"
     ]
   },
   {
-    "question": "Question 11 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 11",
+    "question": "Que fait Thaïs pour aider avec le disque dur ?",
+    "correctAnswer": "Elle trouve 3 clés",
     "options": [
-      "Mauvaise 2",
-      "Bonne réponse 11",
-      "Mauvaise 1",
-      "Mauvaise 3"
+      "Elle chante",
+      "Elle trouve 3 clés",
+      "Elle dessine",
+      "Elle court"
     ]
   },
   {
-    "question": "Question 12 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 12",
+    "question": "Que voit Thaïs dans BIOS-Bourg ?",
+    "correctAnswer": "Des bâtiments lumineux",
     "options": [
-      "Mauvaise 1",
-      "Bonne réponse 12",
-      "Mauvaise 3",
-      "Mauvaise 2"
+      "Des animaux",
+      "Des bâtiments lumineux",
+      "Des nuages",
+      "Des arbres"
     ]
   },
   {
-    "question": "Question 13 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 13",
+    "question": "Pourquoi Thaïs ajuste-t-elle l’horloge ?",
+    "correctAnswer": "Pour que l’ordinateur démarre",
     "options": [
-      "Bonne réponse 13",
-      "Mauvaise 3",
-      "Mauvaise 1",
-      "Mauvaise 2"
+      "Pour jouer",
+      "Pour que l’ordinateur démarre",
+      "Pour écouter de la musique",
+      "Pour dessiner"
     ]
   },
   {
-    "question": "Question 14 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 14",
+    "question": "Que dit Thaïs en entrant dans l’ordinateur ?",
+    "correctAnswer": "Je suis dans l’ordinateur !",
     "options": [
-      "Bonne réponse 14",
-      "Mauvaise 1",
-      "Mauvaise 2",
-      "Mauvaise 3"
+      "Où suis-je ?",
+      "Je suis dans l’ordinateur !",
+      "C’est bizarre !",
+      "Au secours !"
     ]
   },
   {
-    "question": "Question 15 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 15",
+    "question": "Que fait Windows pour aider Thaïs ?",
+    "correctAnswer": "Il lui explique tout",
     "options": [
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Bonne réponse 15",
-      "Mauvaise 1"
+      "Il lui donne des bonbons",
+      "Il lui explique tout",
+      "Il lui chante une chanson",
+      "Il s’en va"
     ]
   },
   {
-    "question": "Question 16 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 16",
+    "question": "Que représente le manchot Tux ?",
+    "correctAnswer": "Linux",
     "options": [
-      "Mauvaise 2",
-      "Bonne réponse 16",
-      "Mauvaise 3",
-      "Mauvaise 1"
+      "Windows",
+      "Linux",
+      "Un jeu",
+      "Un animal"
     ]
   },
   {
-    "question": "Question 17 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 17",
+    "question": "Que fait Thaïs avec les blocs de données ?",
+    "correctAnswer": "Elle les regarde",
     "options": [
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Bonne réponse 17",
-      "Mauvaise 3"
+      "Elle les mange",
+      "Elle les regarde",
+      "Elle les jette",
+      "Elle les cache"
     ]
   },
   {
-    "question": "Question 18 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 18",
+    "question": "Pourquoi le processeur trie-t-il les tâches ?",
+    "correctAnswer": "Pour travailler efficacement",
     "options": [
-      "Bonne réponse 18",
-      "Mauvaise 3",
-      "Mauvaise 1",
-      "Mauvaise 2"
+      "Pour s’amuser",
+      "Pour travailler efficacement",
+      "Pour faire du bruit",
+      "Pour dormir"
     ]
   },
   {
-    "question": "Question 19 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 19",
+    "question": "Que dit Thaïs sur les Calculateurs ?",
+    "correctAnswer": "Ils vont trop vite !",
     "options": [
-      "Mauvaise 1",
-      "Bonne réponse 19",
-      "Mauvaise 2",
-      "Mauvaise 3"
+      "Ils sont trop lents !",
+      "Ils vont trop vite !",
+      "Ils sont rigolos !",
+      "Ils sont fatigués !"
     ]
   },
   {
-    "question": "Question 20 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 20",
+    "question": "Que fait Thaïs quand elle comprend le binaire ?",
+    "correctAnswer": "Elle sourit",
     "options": [
-      "Bonne réponse 20",
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Mauvaise 3"
+      "Elle pleure",
+      "Elle sourit",
+      "Elle s’enfuit",
+      "Elle dort"
     ]
   },
   {
-    "question": "Question 21 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 21",
+    "question": "Que voit Thaïs en sortant de l’ordinateur ?",
+    "correctAnswer": "Le canapé",
     "options": [
-      "Bonne réponse 21",
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Mauvaise 1"
+      "Un dragon",
+      "Le canapé",
+      "Une fusée",
+      "Un arbre"
     ]
   },
   {
-    "question": "Question 22 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 22",
+    "question": "Que pense Thaïs de son voyage ?",
+    "correctAnswer": "C’était incroyable",
     "options": [
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Bonne réponse 22",
-      "Mauvaise 2"
+      "C’était ennuyeux",
+      "C’était incroyable",
+      "C’était trop long",
+      "C’était bizarre"
     ]
   },
   {
-    "question": "Question 23 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 23",
+    "question": "Que fait le BIOS avec le processeur ?",
+    "correctAnswer": "Il le vérifie",
     "options": [
-      "Bonne réponse 23",
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Mauvaise 1"
+      "Il le cache",
+      "Il le vérifie",
+      "Il le casse",
+      "Il le peint"
     ]
   },
   {
-    "question": "Question 24 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 24",
+    "question": "Que dit Windows sur la RAM dans un téléphone ?",
+    "correctAnswer": "Elle est comme celle de l’ordinateur",
     "options": [
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Bonne réponse 24"
+      "Elle n’existe pas",
+      "Elle est comme celle de l’ordinateur",
+      "Elle est plus grande",
+      "Elle est cassée"
     ]
   },
   {
-    "question": "Question 25 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 25",
+    "question": "Que fait Thaïs avec le bouton de l’ordinateur ?",
+    "correctAnswer": "Elle l’appuie",
     "options": [
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Bonne réponse 25",
-      "Mauvaise 1"
+      "Elle le regarde",
+      "Elle l’appuie",
+      "Elle le casse",
+      "Elle le peint"
     ]
   },
   {
-    "question": "Question 26 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 26",
+    "question": "Que voit Thaïs sur la porte de BIOS-Bourg ?",
+    "correctAnswer": "Des lettres lumineuses",
     "options": [
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Bonne réponse 26",
-      "Mauvaise 2"
+      "Des dessins",
+      "Des lettres lumineuses",
+      "Des étoiles",
+      "Des fleurs"
     ]
   },
   {
-    "question": "Question 27 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 27",
+    "question": "Pourquoi Thaïs aide-t-elle Chip ?",
+    "correctAnswer": "Pour réparer l’ordinateur",
     "options": [
-      "Mauvaise 1",
-      "Bonne réponse 27",
-      "Mauvaise 3",
-      "Mauvaise 2"
+      "Pour jouer",
+      "Pour réparer l’ordinateur",
+      "Pour chanter",
+      "Pour danser"
     ]
   },
   {
-    "question": "Question 28 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 28",
+    "question": "Que dit Thaïs sur le processeur ?",
+    "correctAnswer": "Il travaille dur",
     "options": [
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Mauvaise 1",
-      "Bonne réponse 28"
+      "Il est paresseux",
+      "Il travaille dur",
+      "Il est silencieux",
+      "Il est cassé"
     ]
   },
   {
-    "question": "Question 29 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 29",
+    "question": "Que fait Thaïs quand elle voit les icônes ?",
+    "correctAnswer": "Elle les reconnaît",
     "options": [
-      "Mauvaise 3",
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Bonne réponse 29"
+      "Elle les casse",
+      "Elle les reconnaît",
+      "Elle les ignore",
+      "Elle les mange"
     ]
   },
   {
-    "question": "Question 30 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 30",
+    "question": "Que représente la lumière douce à la fin ?",
+    "correctAnswer": "La sortie de l’ordinateur",
     "options": [
-      "Bonne réponse 30",
-      "Mauvaise 3",
-      "Mauvaise 2",
-      "Mauvaise 1"
+      "Une lampe",
+      "La sortie de l’ordinateur",
+      "Un feu",
+      "Une étoile"
     ]
   },
   {
-    "question": "Question 31 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 31",
+    "question": "Que fait Thaïs pour comprendre l’ordinateur ?",
+    "correctAnswer": "Elle pose des questions",
     "options": [
-      "Mauvaise 3",
-      "Bonne réponse 31",
-      "Mauvaise 1",
-      "Mauvaise 2"
+      "Elle dort",
+      "Elle pose des questions",
+      "Elle chante",
+      "Elle dessine"
     ]
   },
   {
-    "question": "Question 32 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 32",
+    "question": "Que dit Windows sur les tâches rapides ?",
+    "correctAnswer": "Elles sont faites à la fin",
     "options": [
-      "Bonne réponse 32",
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Mauvaise 3"
+      "Elles sont faites en premier",
+      "Elles sont faites à la fin",
+      "Elles sont ignorées",
+      "Elles sont difficiles"
     ]
   },
   {
-    "question": "Question 33 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 33",
+    "question": "Que ressent Thaïs en apprenant le binaire ?",
+    "correctAnswer": "C’est comme un jeu",
     "options": [
-      "Mauvaise 1",
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Bonne réponse 33"
+      "C’est trop dur",
+      "C’est comme un jeu",
+      "C’est ennuyeux",
+      "C’est fatiguant"
     ]
   },
   {
-    "question": "Question 34 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 34",
+    "question": "Que voit Thaïs dans les circuits étincelants ?",
+    "correctAnswer": "Une lumière familière",
     "options": [
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Bonne réponse 34"
-    ]
-  },
-  {
-    "question": "Question 35 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 35",
-    "options": [
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Bonne réponse 35",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 36 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 36",
-    "options": [
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Bonne réponse 36",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 37 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 37",
-    "options": [
-      "Mauvaise 3",
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Bonne réponse 37"
-    ]
-  },
-  {
-    "question": "Question 38 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 38",
-    "options": [
-      "Mauvaise 3",
-      "Mauvaise 1",
-      "Mauvaise 2",
-      "Bonne réponse 38"
-    ]
-  },
-  {
-    "question": "Question 39 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 39",
-    "options": [
-      "Mauvaise 3",
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Bonne réponse 39"
-    ]
-  },
-  {
-    "question": "Question 40 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 40",
-    "options": [
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Bonne réponse 40",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 41 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 41",
-    "options": [
-      "Bonne réponse 41",
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 42 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 42",
-    "options": [
-      "Bonne réponse 42",
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 43 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 43",
-    "options": [
-      "Bonne réponse 43",
-      "Mauvaise 3",
-      "Mauvaise 1",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 44 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 44",
-    "options": [
-      "Mauvaise 1",
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Bonne réponse 44"
-    ]
-  },
-  {
-    "question": "Question 45 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 45",
-    "options": [
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Mauvaise 1",
-      "Bonne réponse 45"
-    ]
-  },
-  {
-    "question": "Question 46 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 46",
-    "options": [
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Mauvaise 2",
-      "Bonne réponse 46"
-    ]
-  },
-  {
-    "question": "Question 47 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 47",
-    "options": [
-      "Mauvaise 2",
-      "Bonne réponse 47",
-      "Mauvaise 1",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 48 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 48",
-    "options": [
-      "Mauvaise 1",
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Bonne réponse 48"
-    ]
-  },
-  {
-    "question": "Question 49 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 49",
-    "options": [
-      "Bonne réponse 49",
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Mauvaise 1"
-    ]
-  },
-  {
-    "question": "Question 50 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 50",
-    "options": [
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Bonne réponse 50",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 51 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 51",
-    "options": [
-      "Mauvaise 2",
-      "Bonne réponse 51",
-      "Mauvaise 3",
-      "Mauvaise 1"
-    ]
-  },
-  {
-    "question": "Question 52 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 52",
-    "options": [
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Bonne réponse 52",
-      "Mauvaise 1"
-    ]
-  },
-  {
-    "question": "Question 53 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 53",
-    "options": [
-      "Mauvaise 1",
-      "Bonne réponse 53",
-      "Mauvaise 2",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 54 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 54",
-    "options": [
-      "Mauvaise 1",
-      "Bonne réponse 54",
-      "Mauvaise 3",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 55 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 55",
-    "options": [
-      "Bonne réponse 55",
-      "Mauvaise 3",
-      "Mauvaise 1",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 56 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 56",
-    "options": [
-      "Mauvaise 2",
-      "Bonne réponse 56",
-      "Mauvaise 1",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 57 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 57",
-    "options": [
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Mauvaise 2",
-      "Bonne réponse 57"
-    ]
-  },
-  {
-    "question": "Question 58 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 58",
-    "options": [
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Mauvaise 1",
-      "Bonne réponse 58"
-    ]
-  },
-  {
-    "question": "Question 59 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 59",
-    "options": [
-      "Mauvaise 3",
-      "Mauvaise 2",
-      "Bonne réponse 59",
-      "Mauvaise 1"
-    ]
-  },
-  {
-    "question": "Question 60 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 60",
-    "options": [
-      "Mauvaise 3",
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Bonne réponse 60"
-    ]
-  },
-  {
-    "question": "Question 61 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 61",
-    "options": [
-      "Mauvaise 1",
-      "Bonne réponse 61",
-      "Mauvaise 3",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 62 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 62",
-    "options": [
-      "Mauvaise 3",
-      "Mauvaise 1",
-      "Mauvaise 2",
-      "Bonne réponse 62"
-    ]
-  },
-  {
-    "question": "Question 63 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 63",
-    "options": [
-      "Mauvaise 2",
-      "Bonne réponse 63",
-      "Mauvaise 1",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 64 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 64",
-    "options": [
-      "Mauvaise 3",
-      "Bonne réponse 64",
-      "Mauvaise 2",
-      "Mauvaise 1"
-    ]
-  },
-  {
-    "question": "Question 65 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 65",
-    "options": [
-      "Mauvaise 3",
-      "Bonne réponse 65",
-      "Mauvaise 2",
-      "Mauvaise 1"
-    ]
-  },
-  {
-    "question": "Question 66 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 66",
-    "options": [
-      "Mauvaise 1",
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Bonne réponse 66"
-    ]
-  },
-  {
-    "question": "Question 67 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 67",
-    "options": [
-      "Mauvaise 2",
-      "Bonne réponse 67",
-      "Mauvaise 3",
-      "Mauvaise 1"
-    ]
-  },
-  {
-    "question": "Question 68 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 68",
-    "options": [
-      "Mauvaise 3",
-      "Mauvaise 1",
-      "Mauvaise 2",
-      "Bonne réponse 68"
-    ]
-  },
-  {
-    "question": "Question 69 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 69",
-    "options": [
-      "Bonne réponse 69",
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 70 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 70",
-    "options": [
-      "Bonne réponse 70",
-      "Mauvaise 3",
-      "Mauvaise 2",
-      "Mauvaise 1"
-    ]
-  },
-  {
-    "question": "Question 71 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 71",
-    "options": [
-      "Mauvaise 1",
-      "Bonne réponse 71",
-      "Mauvaise 3",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 72 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 72",
-    "options": [
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Bonne réponse 72"
-    ]
-  },
-  {
-    "question": "Question 73 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 73",
-    "options": [
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Bonne réponse 73",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 74 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 74",
-    "options": [
-      "Mauvaise 1",
-      "Mauvaise 2",
-      "Bonne réponse 74",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 75 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 75",
-    "options": [
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Bonne réponse 75",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 76 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 76",
-    "options": [
-      "Mauvaise 3",
-      "Mauvaise 2",
-      "Bonne réponse 76",
-      "Mauvaise 1"
-    ]
-  },
-  {
-    "question": "Question 77 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 77",
-    "options": [
-      "Mauvaise 3",
-      "Mauvaise 1",
-      "Bonne réponse 77",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 78 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 78",
-    "options": [
-      "Mauvaise 1",
-      "Mauvaise 2",
-      "Bonne réponse 78",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 79 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 79",
-    "options": [
-      "Mauvaise 3",
-      "Mauvaise 1",
-      "Bonne réponse 79",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 80 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 80",
-    "options": [
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Bonne réponse 80",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 81 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 81",
-    "options": [
-      "Mauvaise 3",
-      "Mauvaise 1",
-      "Bonne réponse 81",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 82 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 82",
-    "options": [
-      "Bonne réponse 82",
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 83 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 83",
-    "options": [
-      "Bonne réponse 83",
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 84 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 84",
-    "options": [
-      "Mauvaise 1",
-      "Bonne réponse 84",
-      "Mauvaise 3",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 85 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 85",
-    "options": [
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Bonne réponse 85",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 86 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 86",
-    "options": [
-      "Mauvaise 1",
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Bonne réponse 86"
-    ]
-  },
-  {
-    "question": "Question 87 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 87",
-    "options": [
-      "Bonne réponse 87",
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 88 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 88",
-    "options": [
-      "Mauvaise 1",
-      "Bonne réponse 88",
-      "Mauvaise 3",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 89 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 89",
-    "options": [
-      "Mauvaise 3",
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Bonne réponse 89"
-    ]
-  },
-  {
-    "question": "Question 90 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 90",
-    "options": [
-      "Mauvaise 3",
-      "Bonne réponse 90",
-      "Mauvaise 2",
-      "Mauvaise 1"
-    ]
-  },
-  {
-    "question": "Question 91 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 91",
-    "options": [
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Bonne réponse 91",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 92 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 92",
-    "options": [
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Bonne réponse 92",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 93 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 93",
-    "options": [
-      "Mauvaise 2",
-      "Bonne réponse 93",
-      "Mauvaise 3",
-      "Mauvaise 1"
-    ]
-  },
-  {
-    "question": "Question 94 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 94",
-    "options": [
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Bonne réponse 94",
-      "Mauvaise 2"
-    ]
-  },
-  {
-    "question": "Question 95 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 95",
-    "options": [
-      "Mauvaise 2",
-      "Bonne réponse 95",
-      "Mauvaise 3",
-      "Mauvaise 1"
-    ]
-  },
-  {
-    "question": "Question 96 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 96",
-    "options": [
-      "Bonne réponse 96",
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Mauvaise 3"
-    ]
-  },
-  {
-    "question": "Question 97 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 97",
-    "options": [
-      "Mauvaise 3",
-      "Bonne réponse 97",
-      "Mauvaise 2",
-      "Mauvaise 1"
-    ]
-  },
-  {
-    "question": "Question 98 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 98",
-    "options": [
-      "Mauvaise 3",
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Bonne réponse 98"
-    ]
-  },
-  {
-    "question": "Question 99 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 99",
-    "options": [
-      "Mauvaise 2",
-      "Mauvaise 1",
-      "Mauvaise 3",
-      "Bonne réponse 99"
-    ]
-  },
-  {
-    "question": "Question 100 fictive du tome 1 ?",
-    "correctAnswer": "Bonne réponse 100",
-    "options": [
-      "Bonne réponse 100",
-      "Mauvaise 2",
-      "Mauvaise 3",
-      "Mauvaise 1"
+      "Un monstre",
+      "Une lumière familière",
+      "Un oiseau",
+      "Un trésor"
     ]
   }
 ]
